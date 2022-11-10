@@ -1,0 +1,5 @@
+per_entity:true #Sets the Entity-specific option for the custom colored glow effect. If enabled it will check for the UUID of an entity and set (if configured) a custom glow color for the specific entity. | default= true | type= Boolean
+per_entitytype:true #Sets the EntityType-specific option for the custom colored. If enabled it will check for the EntityType of an entity and set (if configured) a custom glow color for the entity | default= true | type= Boolean
+generalized_rainbow:false #Set this to true to make every entity change the glowing color like a jeb sheep aka change color each tick | default= false | type= Boolean
+override_team_colors:false #Set this to true to override the default minecraft team colors even of the entity is in a team | default= false | type= Boolean
+

@@ -1,0 +1,20 @@
+{
+	"backslot_sounds": true,
+	// Use for mod compatibility
+	"change_slot_arrangement": true,
+	"disable_backslot_hud": false,
+	"switch_beltslot_side": false,
+	"offhand_switch": false,
+	// Only usable when BackSlotAddon installed
+	"offhand_shield": true,
+	"offhand_fallback": true,
+	"put_aside": true,
+	"drop_holding": false,
+	"backSlot_x": -34,
+	// Example: -18 on Y to move up one slot
+	"backSlot_y": -7,
+	"beltSlot_x": -34,
+	"beltSlot_y": -7,
+	"backslot_scaling": 1.0,
+	"beltslot_scaling": 1.0
+}

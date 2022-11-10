@@ -1,0 +1,56 @@
+{
+  "quivers": [
+    {
+      "name": "basic",
+      "rowWidth": 4,
+      "numberOfRows": 1,
+      "isFireImmune": false,
+      "openSound": "minecraft:item.armor.equip_leather"
+    },
+    {
+      "name": "iron",
+      "rowWidth": 6,
+      "numberOfRows": 1,
+      "isFireImmune": false,
+      "openSound": "minecraft:item.armor.equip_iron"
+    },
+    {
+      "name": "copper",
+      "rowWidth": 4,
+      "numberOfRows": 2,
+      "isFireImmune": false,
+      "openSound": "minecraft:item.armor.equip_iron"
+    },
+    {
+      "name": "gold",
+      "rowWidth": 6,
+      "numberOfRows": 2,
+      "isFireImmune": false,
+      "openSound": "minecraft:item.armor.equip_gold"
+    },
+    {
+      "name": "silver",
+      "rowWidth": 4,
+      "numberOfRows": 4,
+      "isFireImmune": false,
+      "openSound": "minecraft:item.armor.equip_gold"
+    },
+    {
+      "name": "diamond",
+      "rowWidth": 4,
+      "numberOfRows": 5,
+      "isFireImmune": false,
+      "openSound": "minecraft:item.armor.equip_diamond"
+    },
+    {
+      "name": "netherite",
+      "rowWidth": 6,
+      "numberOfRows": 5,
+      "isFireImmune": true,
+      "openSound": "minecraft:item.armor.equip_netherite"
+    }
+  ],
+  "playSound": true,
+  "xpos": 0,
+  "ypos": 0
+}
