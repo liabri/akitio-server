@@ -1,0 +1,3 @@
+[submodule "client/resourcepacks/swejqa"]
+	path = client/resourcepacks/swejqa
+	url = https://github.com/liabri/swejqa
