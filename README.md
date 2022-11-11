@@ -38,4 +38,5 @@ Todo: Add git module link to Swejqa in client/resourcepacks
 * ExpertArmour/Weapons ? ;
 * LevelZ vs PlayerEx ;
 * MVS structures ? ;
-* ElytraSlot vs ElytraQuickSwitch.
+* ElytraSlot vs ElytraQuickSwitch ;
+* Create mod.
