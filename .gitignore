@@ -17,5 +17,5 @@ server/localconfigs/
 server/moddata/
 server/patchouli_books/
 
-server/bluemap/
-server/world/
+server/bluemap
+server/world

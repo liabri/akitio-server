@@ -26,3 +26,14 @@ Todo: Add git module link to Swejqa in client/resourcepacks
 # TODO
 
 * Configure « When Dungeons Arise » ;
+* Configure Eldritch Mobs ;
+* Configure RpgDifficulty/Nameplate ;
+* Configure Spellbound Enchantments ;
+* Configure Immersive Weathering ;
+* Figure out what to do with Cinderscapes ;
+* Find an origins mod addon (such as libra, origins-plus-plus, toomanyorigins or voyager) ;
+* Companion Bats ? ;
+* Miskatonic Mysteries ? ;
+* Alloygery ? ;
+* ExpertArmour/Tools ? ;
+* LevelZ vs PlayerEx.
