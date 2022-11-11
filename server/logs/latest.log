@@ -782,3 +782,39 @@ BCLib - Nether BiomeSource (83190bf)
 [18:43:09] [Thread-10/INFO]: WebServer bound to: 0.0.0.0/0.0.0.0:8100
 [18:43:09] [Thread-10/INFO]: WebServer started.
 [18:43:09] [Thread-6/INFO]: BlueMap loaded!
+[18:43:55] [RenderManager-0-1/ERROR]: Failed to load tile (-2, -3) (lod: 1)
+javax.imageio.IIOException: Error skipping PNG metadata
+	at com.sun.imageio.plugins.png.PNGImageReader.readMetadata(PNGImageReader.java:752) ~[?:?]
+	at com.sun.imageio.plugins.png.PNGImageReader.readImage(PNGImageReader.java:1416) ~[?:?]
+	at com.sun.imageio.plugins.png.PNGImageReader.read(PNGImageReader.java:1847) ~[?:?]
+	at javax.imageio.ImageIO.read(ImageIO.java:1470) ~[?:?]
+	at javax.imageio.ImageIO.read(ImageIO.java:1365) ~[?:?]
+	at de.bluecolored.bluemap.core.map.lowres.LowresTile.<init>(LowresTile.java:29) ~[BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.bluemap.core.map.lowres.LowresLayer.createTile(LowresLayer.java:75) ~[BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.shadow.benmanes.caffeine.cache.LocalLoadingCache.lambda$newMappingFunction$2(LocalLoadingCache.java:141) ~[BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.shadow.benmanes.caffeine.cache.BoundedLocalCache.lambda$doComputeIfAbsent$14(BoundedLocalCache.java:2344) ~[BlueMap-3.6-fabric-1.19.jar:?]
+	at java.util.concurrent.ConcurrentHashMap.compute(ConcurrentHashMap.java:1955) ~[?:?]
+	at de.bluecolored.shadow.benmanes.caffeine.cache.BoundedLocalCache.doComputeIfAbsent(BoundedLocalCache.java:2342) ~[BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.shadow.benmanes.caffeine.cache.BoundedLocalCache.computeIfAbsent(BoundedLocalCache.java:2325) ~[BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.shadow.benmanes.caffeine.cache.LocalCache.computeIfAbsent(LocalCache.java:108) ~[BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.shadow.benmanes.caffeine.cache.LocalLoadingCache.get(LocalLoadingCache.java:54) ~[BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.shadow.benmanes.caffeine.cache.LocalLoadingCache.lambda$newMappingFunction$2(LocalLoadingCache.java:141) ~[BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.shadow.benmanes.caffeine.cache.BoundedLocalCache.lambda$doComputeIfAbsent$14(BoundedLocalCache.java:2344) ~[BlueMap-3.6-fabric-1.19.jar:?]
+	at java.util.concurrent.ConcurrentHashMap.compute(ConcurrentHashMap.java:1916) [?:?]
+	at de.bluecolored.shadow.benmanes.caffeine.cache.BoundedLocalCache.doComputeIfAbsent(BoundedLocalCache.java:2342) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.shadow.benmanes.caffeine.cache.BoundedLocalCache.computeIfAbsent(BoundedLocalCache.java:2325) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.shadow.benmanes.caffeine.cache.LocalCache.computeIfAbsent(LocalCache.java:108) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.shadow.benmanes.caffeine.cache.LocalLoadingCache.get(LocalLoadingCache.java:54) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.bluemap.core.map.lowres.LowresLayer.getTile(LowresLayer.java:148) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.bluemap.core.map.lowres.LowresLayer.set(LowresLayer.java:152) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.bluemap.core.map.lowres.LowresTileManager.set(LowresTileManager.java:51) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.bluemap.core.map.hires.HiresModelRenderer.render(HiresModelRenderer.java:114) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.bluemap.core.map.hires.HiresModelManager.render(HiresModelManager.java:69) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.bluemap.core.map.BmMap.renderTile(BmMap.java:120) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.bluemap.common.rendermanager.WorldRegionRenderTask.doWork(WorldRegionRenderTask.java:134) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.bluemap.common.rendermanager.CombinedRenderTask.doWork(CombinedRenderTask.java:59) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.bluemap.common.rendermanager.RenderManager.doWork(RenderManager.java:296) [BlueMap-3.6-fabric-1.19.jar:?]
+	at de.bluecolored.bluemap.common.rendermanager.RenderManager$WorkerThread.run(RenderManager.java:320) [BlueMap-3.6-fabric-1.19.jar:?]
+Caused by: javax.imageio.IIOException: Invalid chunk length -1
+	at com.sun.imageio.plugins.png.PNGImageReader.readMetadata(PNGImageReader.java:727) ~[?:?]
+	... 30 more

@@ -31,9 +31,11 @@ Todo: Add git module link to Swejqa in client/resourcepacks
 * Configure Spellbound Enchantments ;
 * Configure Immersive Weathering ;
 * Figure out what to do with Cinderscapes ;
-* Find an origins mod addon (such as libra, origins-plus-plus, toomanyorigins or voyager) ;
+* Find an origins mod addon (such as libra, origins-plus-plus, toomanyorigins, bucolic or voyager) ;
 * Companion Bats ? ;
 * Miskatonic Mysteries ? ;
 * Alloygery ? ;
-* ExpertArmour/Tools ? ;
-* LevelZ vs PlayerEx.
+* ExpertArmour/Weapons ? ;
+* LevelZ vs PlayerEx ;
+* MVS structures ? ;
+* ElytraSlot vs ElytraQuickSwitch.
