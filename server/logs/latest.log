@@ -1277,3 +1277,55 @@ BCLib - Nether BiomeSource (1f19d47d)
 Open this link to get a description for each command:
 https://bluecolo.red/bluemap-commands
 [15:32:11] [Server thread/INFO]: Render-Threads are already running!
+[15:32:43] [Server thread/INFO]: Incorrect argument for command
+[15:32:43] [Server thread/INFO]: bluemap bluemap<--[HERE]
+[15:32:49] [Thread-23/INFO]: Created new Update-Task for map 'overworld' (3 regions, ~3072 chunks)
+[15:32:49] [Thread-23/INFO]: Use /bluemap to see the progress.
+[15:32:51] [Server thread/INFO]: BlueMap - Status:
+[15:32:51] [Server thread/INFO]:  Render-Threads are running!
+[15:32:51] [Server thread/INFO]:  Queued Tasks (2):
+[15:32:51] [Server thread/INFO]:   [1100] Update map 'overworld'
+[15:32:51] [Server thread/INFO]:    Detail: Update region (-1, 0) for map 'overworld'
+[15:32:51] [Server thread/INFO]:    Progress: 44.21%
+[15:32:51] [Server thread/INFO]:   [4007] Update region (0, 0) for map 'overworld'
+[15:32:53] [Server thread/INFO]: BlueMap - Status:
+[15:32:53] [Server thread/INFO]:  Render-Threads are running!
+[15:32:53] [Server thread/INFO]:  Queued Tasks (2):
+[15:32:53] [Server thread/INFO]:   [1100] Update map 'overworld'
+[15:32:53] [Server thread/INFO]:    Detail: Update region (-1, 0) for map 'overworld'
+[15:32:53] [Server thread/INFO]:    Progress: 50.18%
+[15:32:53] [Server thread/INFO]:    ETA: 00:00:02
+[15:32:53] [Server thread/INFO]:   [4007] Update region (0, 0) for map 'overworld'
+[15:35:04] [Server thread/INFO]: Named entity class_1642['Ender Lethargic Thorny Undying Zombie'/101, l='ServerLevel[world]', x=7.46, y=91.00, z=49.54] died: Ender Lethargic Thorny Undying Zombie suffocated in a wall
+[15:36:25] [Server thread/INFO]: Stopping the server
+[15:36:26] [Server thread/INFO]: BlueMap unloaded!
+[15:36:26] [Thread-9/INFO]: WebServer closed.
+[15:36:26] [Server thread/INFO]: Saving the colored glow data to the file...
+[15:36:26] [Server thread/INFO]: Saved!
+[15:36:26] [Server thread/INFO]: Stopping server
+[15:36:26] [Server thread/INFO]: Saving players
+[15:36:26] [Server thread/INFO]: Saving worlds
+[15:36:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:36:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:36:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:36:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:36:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:36:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:36:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:36:32] [Server thread/INFO]: closing rrp minecraft:extrarecords
+[15:36:32] [Server thread/ERROR]: Shutdown action failed.
+org.eclipse.jgit.errors.RepositoryNotFoundException: repository not found: /home/liabri/loghob/minecraft/akitio/server/world
+	at org.eclipse.jgit.lib.BaseRepositoryBuilder.build(BaseRepositoryBuilder.java:627) ~[org_eclipse_jgit_org_eclipse_jgi206071550-r-f0955f5ce674565a.jar:?]
+	at org.eclipse.jgit.api.Git.open(Git.java:93) ~[org_eclipse_jgit_org_eclipse_jgi206071550-r-f0955f5ce674565a.jar:?]
+	at org.eclipse.jgit.api.Git.open(Git.java:73) ~[org_eclipse_jgit_org_eclipse_jgi206071550-r-f0955f5ce674565a.jar:?]
+	at net.pcal.fastback.LifecycleUtils.onWorldStop(LifecycleUtils.java:84) ~[fastback-0.7.3+1.19.2.jar:?]
+	at net.pcal.fastback.fabric.FabricServerInitializer.lambda$onInitializeServer$1(FabricServerInitializer.java:46) ~[fastback-0.7.3+1.19.2.jar:?]
+	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$6(ServerLifecycleEvents.java:76) ~[fabric-lifecycle-events-v1-2.2.0+33ffe9ec90-fbd9228dd8adfc4d.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$bkh000$afterShutdownServer(MinecraftServer.java:5811) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:609) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:547) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[15:36:32] [Server thread/INFO]: onWorldStop complete
+[15:36:32] [Server thread/INFO]: onTermination complete
