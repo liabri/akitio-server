@@ -856,3 +856,22 @@ BCLib - Nether BiomeSource (30602bc8)
 [15:48:50] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 804 chunks (19.03%), ETA: 0:06:09, Rate: 9.3 cps, Current: -14, 5
 [15:48:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 813 chunks (19.24%), ETA: 0:06:14, Rate: 9.1 cps, Current: -14, 14
 [15:48:52] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 828 chunks (19.60%), ETA: 0:05:30, Rate: 10.3 cps, Current: 1, 14
+[15:48:54] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 842 chunks (19.93%), ETA: 0:05:59, Rate: 9.4 cps, Current: 15, 14
+[15:48:55] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 856 chunks (20.26%), ETA: 0:05:45, Rate: 9.8 cps, Current: 15, 0
+[15:48:56] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 868 chunks (20.54%), ETA: 0:05:51, Rate: 9.5 cps, Current: 15, -12
+[15:48:57] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 874 chunks (20.69%), ETA: 0:06:05, Rate: 9.2 cps, Current: 12, -15
+[15:48:58] [Worker-Main-1/WARN]: Unable to read property: candles with value: true for blockstate: {Name:"minecraft:candle",Properties:{candles:"true",count:"2",waterlogged:"false"}}
+[15:48:58] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 886 chunks (20.97%), ETA: 0:05:40, Rate: 9.8 cps, Current: 0, -15
+[15:48:59] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 900 chunks (21.30%), ETA: 0:05:28, Rate: 10.1 cps, Current: -14, -15
+[15:49:01] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 911 chunks (21.56%), ETA: 0:05:23, Rate: 10.2 cps, Current: -15, -5
+[15:49:02] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 923 chunks (21.85%), ETA: 0:05:17, Rate: 10.4 cps, Current: -15, 7
+[15:49:03] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 931 chunks (22.04%), ETA: 0:05:25, Rate: 10.1 cps, Current: -15, 15
+[15:49:04] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 945 chunks (22.37%), ETA: 0:05:12, Rate: 10.5 cps, Current: -1, 15
+[15:49:05] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 957 chunks (22.65%), ETA: 0:05:18, Rate: 10.3 cps, Current: 11, 15
+[15:49:06] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 963 chunks (22.79%), ETA: 0:05:42, Rate: 9.5 cps, Current: 16, 14
+[15:49:07] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 977 chunks (23.12%), ETA: 0:05:13, Rate: 10.4 cps, Current: 16, 0
+[15:49:08] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 984 chunks (23.29%), ETA: 0:05:24, Rate: 10.0 cps, Current: 16, -7
+[15:49:16] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 993 chunks (23.50%), ETA: 0:24:12, Rate: 2.2 cps, Current: 15, -16
+[15:49:18] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 998 chunks (23.62%), ETA: 0:22:14, Rate: 2.4 cps, Current: 11, -16
+[15:49:19] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1004 chunks (23.76%), ETA: 0:10:27, Rate: 5.1 cps, Current: 5, -16
+[15:49:20] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1016 chunks (24.05%), ETA: 0:08:41, Rate: 6.2 cps, Current: -7, -16
