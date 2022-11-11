@@ -1,12 +1,12 @@
-[15:28:00] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.14.9
-[15:28:01] [ForkJoinPool-1-worker-7/WARN]: The mod "miskatonicmysteries" contains invalid entries in its mod json:
+[15:46:22] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.14.9
+[15:46:22] [ForkJoinPool-1-worker-7/WARN]: The mod "miskatonicmysteries" contains invalid entries in its mod json:
 - Unsupported root entry "credit" at line 15 column 11
-[15:28:01] [ForkJoinPool-1-worker-3/WARN]: Mod nyfsquiver uses the version Fabric-0.5.1-1.19.2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'Fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[15:28:01] [ForkJoinPool-1-worker-8/WARN]: Mod org_eclipse_jgit_org_eclipse_jgit_ssh_apache uses the version 6.2.0.202206071550-r which isn't compatible with Loader's extended semantic version format (Could not parse version number component '202206071550'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[15:28:01] [ForkJoinPool-1-worker-5/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[15:46:22] [ForkJoinPool-1-worker-5/WARN]: Mod nyfsquiver uses the version Fabric-0.5.1-1.19.2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'Fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[15:46:22] [ForkJoinPool-1-worker-8/WARN]: Mod org_eclipse_jgit_org_eclipse_jgit_ssh_apache uses the version 6.2.0.202206071550-r which isn't compatible with Loader's extended semantic version format (Could not parse version number component '202206071550'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[15:46:22] [ForkJoinPool-1-worker-7/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 12
-[15:28:01] [ForkJoinPool-1-worker-8/WARN]: Mod org_eclipse_jgit_org_eclipse_jgit uses the version 6.2.0.202206071550-r which isn't compatible with Loader's extended semantic version format (Could not parse version number component '202206071550'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[15:28:01] [main/INFO]: Loading 217 mods:
+[15:46:22] [ForkJoinPool-1-worker-8/WARN]: Mod org_eclipse_jgit_org_eclipse_jgit uses the version 6.2.0.202206071550-r which isn't compatible with Loader's extended semantic version format (Could not parse version number component '202206071550'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[15:46:23] [main/INFO]: Loading 218 mods:
 	- additionalentityattributes 1.0.0+1.19 via apoli
 	- advanced_runtime_resource_pack 0.6.5 via extrarecords
 	- amplifiednether 1.2
@@ -45,6 +45,7 @@
 	- cardinal-components-scoreboard 5.0.2 via cardinal-components
 	- cardinal-components-world 5.0.2 via cardinal-components
 	- charm 4.4.4
+	- chunky 1.3.38
 	- cinderscapes 3.0.3
 	- cinderscapes-common 3.0.3 via cinderscapes
 	- cinderscapes-worldgen 3.0.3 via cinderscapes
@@ -224,325 +225,325 @@
 	- wthit 5.13.3
 	- yungsapi 1.19.2-Fabric-3.8.2
 	- yungsextras 1.19.2-Fabric-3.1.0
-[15:28:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/liabri/loghob/minecraft/akitio/server/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[15:28:01] [main/INFO]: Compatibility level set to JAVA_17
-[15:28:01] [main/INFO]: [MixinConfig] Not adding no_crop_trampling.PreventTramplingMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding more_portal_frames.LightPortalBlockMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding no_cured_villager_discount.BypassReputationGossipMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding respawn_anchor_in_the_end.CheckIfCanSetSpawnMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding totem_of_preserving.ExplosionMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding no_potion_glint.CheckPotionHasGlintMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding block_of_ender_pearls.PreventRandomTeleportMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding more_portal_frames.AddValidPortalFrameBlocksMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding no_spyglass_scope.RemoveSpyglassHudMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding chickens_drop_feathers.DropFeatherMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding no_treasure_enchantment_trading.CheckIfTradeableMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding atlases.CheckContainsMapsMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding collection_enchantment.TryBreakBlockMixin
-[15:28:01] [main/INFO]: [MixinConfig] Not adding atlases.DrawAtlasOnCartographyTableMixin
-[15:28:02] [main/INFO]: [MixinConfig] Not adding totem_of_preserving.DestroyBlockMixin
-[15:28:02] [main/INFO]: [MixinConfig] Not adding atlases.ScaleAtlasesOnCartographyTableMixin
-[15:28:02] [main/INFO]: [MixinConfig] Not adding collection_enchantment.AddDroppedItemToInventoryMixin
-[15:28:02] [main/INFO]: [MixinConfig] Not adding totem_works_from_inventory.CheckInventoryMixin
-[15:28:02] [main/INFO]: Loaded configuration file for Lithium: 105 options available, 1 override(s) found
-[15:28:02] [main/WARN]: Reference map 'structureplacerapi-refmap.json' for structureplacerapi.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:28:02] [main/WARN]: Reference map 'traverse-common-refmap.json' for mixins.traverse-common.json could not be read. If this is a development environment you can ignore this message
-[15:28:02] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:28:02] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:28:02] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[15:28:02] [main/WARN]: @Mixin target net.minecraft.class_906 was not found go-fish.mixins.json:FishingBobberEntityRendererMixin from mod go-fish
-[15:28:02] [main/WARN]: Error loading class: net/minecraft/class_702 (java.lang.ClassNotFoundException: net/minecraft/class_702)
-[15:28:02] [main/WARN]: @Mixin target net.minecraft.class_702 was not found go-fish.mixins.json:ParticleManagerMixin from mod go-fish
-[15:28:02] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[15:28:02] [main/WARN]: Error loading class: net/minecraft/class_4224 (java.lang.ClassNotFoundException: net/minecraft/class_4224)
-[15:28:02] [main/WARN]: @Mixin target net.minecraft.class_4224 was not found sound_physics_remastered.mixins.json:ChannelAccessor from mod sound_physics_remastered
-[15:28:03] [main/INFO]: I used the json to destroy the json
-[15:28:05] [main/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
-[15:28:05] [main/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
-[15:28:05] [main/INFO]: [bclib] Added Config bclib.recipes to auto sync (file hash)
-[15:28:05] [main/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
-[15:28:06] [main/INFO]: Gobber Mod Info Message: Max value of attribute.name.generic.armor is currently set to 80.0
-[15:28:07] [main/INFO]: Building unoptimized datafixer
-[15:28:08] [main/WARN]: @ModifyConstant conflict. Skipping yungsapi_fabric.mixins.json:IncreaseStructureWeightLimitMixinFabric from mod yungsapi->@ModifyConstant::yungsapi_increaseWeightLimitProd(I)I with priority 1000, already redirected by mixins.miskatonicmysteries.common.json:world.StructurePoolMixin from mod miskatonicmysteries->@ModifyConstant::mm_increaseWeightLimit(I)I with priority 1000
-[15:28:09] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - Nether BiomeSource (67f0d43a)
+[15:46:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/liabri/loghob/minecraft/akitio/server/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[15:46:23] [main/INFO]: Compatibility level set to JAVA_17
+[15:46:23] [main/INFO]: [MixinConfig] Not adding no_crop_trampling.PreventTramplingMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding more_portal_frames.LightPortalBlockMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding no_cured_villager_discount.BypassReputationGossipMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding respawn_anchor_in_the_end.CheckIfCanSetSpawnMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding totem_of_preserving.ExplosionMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding no_potion_glint.CheckPotionHasGlintMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding block_of_ender_pearls.PreventRandomTeleportMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding more_portal_frames.AddValidPortalFrameBlocksMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding no_spyglass_scope.RemoveSpyglassHudMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding chickens_drop_feathers.DropFeatherMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding no_treasure_enchantment_trading.CheckIfTradeableMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding atlases.CheckContainsMapsMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding collection_enchantment.TryBreakBlockMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding atlases.DrawAtlasOnCartographyTableMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding totem_of_preserving.DestroyBlockMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding atlases.ScaleAtlasesOnCartographyTableMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding collection_enchantment.AddDroppedItemToInventoryMixin
+[15:46:23] [main/INFO]: [MixinConfig] Not adding totem_works_from_inventory.CheckInventoryMixin
+[15:46:23] [main/INFO]: Loaded configuration file for Lithium: 105 options available, 1 override(s) found
+[15:46:23] [main/WARN]: Reference map 'structureplacerapi-refmap.json' for structureplacerapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:46:23] [main/WARN]: Reference map 'traverse-common-refmap.json' for mixins.traverse-common.json could not be read. If this is a development environment you can ignore this message
+[15:46:23] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:46:23] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:46:24] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[15:46:24] [main/WARN]: @Mixin target net.minecraft.class_906 was not found go-fish.mixins.json:FishingBobberEntityRendererMixin from mod go-fish
+[15:46:24] [main/WARN]: Error loading class: net/minecraft/class_702 (java.lang.ClassNotFoundException: net/minecraft/class_702)
+[15:46:24] [main/WARN]: @Mixin target net.minecraft.class_702 was not found go-fish.mixins.json:ParticleManagerMixin from mod go-fish
+[15:46:24] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[15:46:24] [main/WARN]: Error loading class: net/minecraft/class_4224 (java.lang.ClassNotFoundException: net/minecraft/class_4224)
+[15:46:24] [main/WARN]: @Mixin target net.minecraft.class_4224 was not found sound_physics_remastered.mixins.json:ChannelAccessor from mod sound_physics_remastered
+[15:46:24] [main/INFO]: I used the json to destroy the json
+[15:46:27] [main/INFO]: [bclib] Added Config bclib.generator to auto sync (file hash)
+[15:46:27] [main/INFO]: [bclib] Added Config bclib.main to auto sync (content diff)
+[15:46:27] [main/INFO]: [bclib] Added Config bclib.recipes to auto sync (file hash)
+[15:46:27] [main/INFO]: [bclib] Added Config bclib.biomes to auto sync (file hash)
+[15:46:30] [main/INFO]: Gobber Mod Info Message: Max value of attribute.name.generic.armor is currently set to 80.0
+[15:46:31] [main/INFO]: Building unoptimized datafixer
+[15:46:33] [main/WARN]: @ModifyConstant conflict. Skipping yungsapi_fabric.mixins.json:IncreaseStructureWeightLimitMixinFabric from mod yungsapi->@ModifyConstant::yungsapi_increaseWeightLimitProd(I)I with priority 1000, already redirected by mixins.miskatonicmysteries.common.json:world.StructurePoolMixin from mod miskatonicmysteries->@ModifyConstant::mm_increaseWeightLimit(I)I with priority 1000
+[15:46:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (64f65e77)
     biomes     = 5
     namespaces = minecraft
     seed       = 0
     height     = 128
     config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
-[15:28:09] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - The End BiomeSource (2f125107)
+[15:46:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (5673aca9)
     biomes     = 5
     namespaces = minecraft
     seed       = 0
     height     = 128
     deciders   = 0
     config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
-[15:28:09] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - Nether BiomeSource (54c15b15)
+[15:46:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (3cd5db14)
     biomes     = 5
     namespaces = minecraft
     seed       = 0
     height     = 128
     config     = BCLibNetherBiomeSourceConfig{mapVersion=square}
-[15:28:09] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - The End BiomeSource (4afe8f90)
+[15:46:33] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (25850671)
     biomes     = 5
     namespaces = minecraft
     seed       = 0
     height     = 128
     deciders   = 0
     config     = BCLEndBiomeSourceConfig{mapVersion=square, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
-[15:28:09] [main/INFO]: apoli.mixins.json:ItemSlotArgumentTypeAccessor from mod apoli->@Accessor[FIELD_GETTER]::getSlotNamesToSlotCommandId()Ljava/util/Map; should be static as its target is
-[15:28:09] [main/INFO]: [bclib] Added Config betternether.main to auto sync (file hash)
-[15:28:09] [main/INFO]: [bclib] Added Config betternether.generator to auto sync (file hash)
-[15:28:09] [main/INFO]: [bclib] Added Config betternether.blocks to auto sync (file hash)
-[15:28:09] [main/INFO]: [bclib] Added Config betternether.items to auto sync (file hash)
-[15:28:09] [main/INFO]: [bclib] Added Config betternether.biomes to auto sync (file hash)
-[15:28:09] [main/INFO]: [bclib] Added Config betternether.mobs to auto sync (file hash)
-[15:28:09] [main/INFO]: [bclib] Added Config betternether.recipes to auto sync (file hash)
-[15:28:10] [main/INFO]: Apoli 2.6.1 has initialized. Ready to power up your game!
-[15:28:10] [main/INFO]: Finished initialization
-[15:28:10] [main/INFO]: Reflections took 38 ms to scan 1 urls, producing 1 keys and 3 values
-[15:28:10] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[15:28:10] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[15:28:10] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
-[15:28:10] [main/INFO]: [bclib] Added Config betterend.entities to auto sync (file hash)
-[15:28:10] [main/INFO]: [bclib] Added Config betterend.blocks to auto sync (file hash)
-[15:28:10] [main/INFO]: [bclib] Added Config betterend.items to auto sync (file hash)
-[15:28:10] [main/INFO]: [bclib] Added Config betterend.biomes to auto sync (file hash)
-[15:28:10] [main/INFO]: [bclib] Added Config betterend.recipes to auto sync (file hash)
-[15:28:10] [main/INFO]: [bclib] Added Config betterend.enchantments to auto sync (file hash)
-[15:28:11] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
-[15:28:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[15:28:11] [main/INFO]: [betternether] =^..^=    BetterNether for 1.19    =^..^=
-[15:28:11] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
-[15:28:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[15:28:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[15:28:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[15:28:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[15:28:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[15:28:11] [main/INFO]: Registering C2S receiver with id brazier:network/555ba35c02ea32b197b369216f2b6d8b
-[15:28:11] [main/INFO]: BYG registries bootstrapped
-[15:28:12] [main/ERROR]: No data fixer registered for byg:boat
-[15:28:12] [main/ERROR]: No data fixer registered for byg:chest_boat
-[15:28:12] [main/INFO]: Initializing BYG network...
-[15:28:12] [main/INFO]: Initialized BYG network!
-[15:28:12] [main/INFO]: Oh The Biomes You'll Go (BYG) was initialized from "Fabric Mod Initializer"
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled AerialAffinityEnchantment
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled AllowTooExpensive
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled AmethystNoteBlock
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled AutoRestock
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled AutomaticRecipeUnlock
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled AzaleaWood
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled BatBuckets
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled BeaconsHealMobs
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled Beekeepers
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled Bookcases
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled CaveSpidersDropCobwebs
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ClearItemFrames
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ColoredNetherPortals
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled CoralSquids
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled Core
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled DiscsStopBackgroundMusic
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled EbonyWood
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled EditableSigns
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled EndermitePowder
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ExtraBoats
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ExtraRecipes
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ExtraTrades
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ExtraWanderingTrades
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ExtractEnchantments
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled GentlePotionParticles
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled GoatsDropMutton
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled GrindableArmor
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled HusksDropSand
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled HusksSpawnUnderground
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ImprovedFortressLoot
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ImprovedMansionLoot
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ImprovedMineshafts
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled Kilns
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled LowerNoteblockPitch
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled Lumberjacks
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled MapTooltip
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled NoChatVerifiedNag
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled NoPetDamage
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled OpenBothDoors
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ParrotsStayOnShoulder
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled PathToDirt
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled PlayerPressurePlates
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled QuickReplant
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled RaidHorns
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled RepairElytraFromLeather
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled RepairNetheriteFromScrap
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled RepairTridentsFromShards
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ShowRepairCost
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ShulkerBoxDragDrop
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled ShulkerBoxTooltip
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled SmoothGlowstone
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled SnowAccumulation
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled StackableEnchantedBooks
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled StackablePotions
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled StackableStews
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled StraysDropBlueIce
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled StraysSpawnUnderground
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled StrongerAnvils
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled VariantBarrels
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled VariantBars
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled VariantBookshelves
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled VariantChains
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled VariantChests
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled VariantLadders
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled VariantLanterns
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled VariantMobTextures
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled VillagersFollowEmeraldBlocks
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled WeatheringIron
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled WitchesDropLuck
-[15:28:13] [main/INFO]: [ModuleLoader] Enabled Woodcutters
-[15:28:13] [main/INFO]: [ModuleLoader] Running AerialAffinityEnchantment
-[15:28:13] [main/INFO]: [ModuleLoader] Running AllowTooExpensive
-[15:28:13] [main/INFO]: [ModuleLoader] Running AmethystNoteBlock
-[15:28:13] [main/INFO]: [ModuleLoader] Running AutoRestock
-[15:28:13] [main/INFO]: [ModuleLoader] Running AutomaticRecipeUnlock
-[15:28:13] [main/INFO]: [ModuleLoader] Running AzaleaWood
-[15:28:13] [main/INFO]: [ModuleLoader] Running BatBuckets
-[15:28:13] [main/INFO]: [ModuleLoader] Running BeaconsHealMobs
-[15:28:13] [main/INFO]: [ModuleLoader] Running Beekeepers
-[15:28:13] [main/INFO]: [ModuleLoader] Running Bookcases
-[15:28:13] [main/INFO]: [ModuleLoader] Running CaveSpidersDropCobwebs
-[15:28:13] [main/INFO]: [ModuleLoader] Running ClearItemFrames
-[15:28:13] [main/INFO]: [ModuleLoader] Running ColoredNetherPortals
-[15:28:13] [main/INFO]: [ModuleLoader] Running CoralSquids
-[15:28:13] [main/INFO]: [ModuleLoader] Running Core
-[15:28:13] [main/INFO]: [ModuleLoader] Running DiscsStopBackgroundMusic
-[15:28:13] [main/INFO]: [ModuleLoader] Running EbonyWood
-[15:28:13] [main/INFO]: [ModuleLoader] Running EditableSigns
-[15:28:13] [main/INFO]: [ModuleLoader] Running EndermitePowder
-[15:28:13] [main/INFO]: [ModuleLoader] Running ExtraBoats
-[15:28:13] [main/INFO]: [ModuleLoader] Running ExtraRecipes
-[15:28:13] [main/INFO]: [ModuleLoader] Running ExtraTrades
-[15:28:13] [main/INFO]: [ModuleLoader] Running ExtraWanderingTrades
-[15:28:13] [main/INFO]: [ModuleLoader] Running ExtractEnchantments
-[15:28:13] [main/INFO]: [ModuleLoader] Running GentlePotionParticles
-[15:28:13] [main/INFO]: [ModuleLoader] Running GoatsDropMutton
-[15:28:13] [main/INFO]: [ModuleLoader] Running GrindableArmor
-[15:28:13] [main/INFO]: [ModuleLoader] Running HusksDropSand
-[15:28:13] [main/INFO]: [ModuleLoader] Running HusksSpawnUnderground
-[15:28:13] [main/INFO]: [ModuleLoader] Running ImprovedFortressLoot
-[15:28:13] [main/INFO]: [ModuleLoader] Running ImprovedMansionLoot
-[15:28:13] [main/INFO]: [ModuleLoader] Running ImprovedMineshafts
-[15:28:13] [main/INFO]: [ModuleLoader] Running Kilns
-[15:28:13] [main/INFO]: [ModuleLoader] Running LowerNoteblockPitch
-[15:28:13] [main/INFO]: [ModuleLoader] Running Lumberjacks
-[15:28:13] [main/INFO]: [ModuleLoader] Running MapTooltip
-[15:28:13] [main/INFO]: [ModuleLoader] Running NoChatVerifiedNag
-[15:28:13] [main/INFO]: [ModuleLoader] Running NoPetDamage
-[15:28:13] [main/INFO]: [ModuleLoader] Running OpenBothDoors
-[15:28:13] [main/INFO]: [ModuleLoader] Running ParrotsStayOnShoulder
-[15:28:13] [main/INFO]: [ModuleLoader] Running PathToDirt
-[15:28:13] [main/INFO]: [ModuleLoader] Running PlayerPressurePlates
-[15:28:13] [main/INFO]: [ModuleLoader] Running QuickReplant
-[15:28:13] [main/INFO]: [ModuleLoader] Running RaidHorns
-[15:28:13] [main/INFO]: [ModuleLoader] Running RepairElytraFromLeather
-[15:28:13] [main/INFO]: [ModuleLoader] Running RepairNetheriteFromScrap
-[15:28:13] [main/INFO]: [ModuleLoader] Running RepairTridentsFromShards
-[15:28:13] [main/INFO]: [ModuleLoader] Running ShowRepairCost
-[15:28:13] [main/INFO]: [ModuleLoader] Running ShulkerBoxDragDrop
-[15:28:13] [main/INFO]: [ModuleLoader] Running ShulkerBoxTooltip
-[15:28:13] [main/INFO]: [ModuleLoader] Running SmoothGlowstone
-[15:28:13] [main/INFO]: [ModuleLoader] Running SnowAccumulation
-[15:28:13] [main/INFO]: [ModuleLoader] Running StackableEnchantedBooks
-[15:28:13] [main/INFO]: [ModuleLoader] Running StackablePotions
-[15:28:13] [main/INFO]: [ModuleLoader] Running StackableStews
-[15:28:13] [main/INFO]: [ModuleLoader] Running StraysDropBlueIce
-[15:28:13] [main/INFO]: [ModuleLoader] Running StraysSpawnUnderground
-[15:28:13] [main/INFO]: [ModuleLoader] Running StrongerAnvils
-[15:28:13] [main/INFO]: [ModuleLoader] Running VariantBarrels
-[15:28:13] [main/INFO]: [ModuleLoader] Running VariantBars
-[15:28:13] [main/INFO]: [ModuleLoader] Running VariantBookshelves
-[15:28:13] [main/INFO]: [ModuleLoader] Running VariantChains
-[15:28:13] [main/INFO]: [ModuleLoader] Running VariantChests
-[15:28:13] [main/INFO]: [ModuleLoader] Running VariantLadders
-[15:28:13] [main/INFO]: [ModuleLoader] Running VariantLanterns
-[15:28:13] [main/INFO]: [ModuleLoader] Running VariantMobTextures
-[15:28:13] [main/INFO]: [ModuleLoader] Running VillagersFollowEmeraldBlocks
-[15:28:13] [main/INFO]: [ModuleLoader] Running WeatheringIron
-[15:28:13] [main/INFO]: [ModuleLoader] Running WitchesDropLuck
-[15:28:13] [main/INFO]: [ModuleLoader] Running Woodcutters
-[15:28:13] [main/INFO]: Enabling Cinderscapes' Fabric Biome API worldgen module.
-[15:28:13] [main/INFO]: Initializing...
-[15:28:13] [main/INFO]: All 4 have been set properly
-[15:28:13] [main/INFO]: All 4 have been set properly
-[15:28:13] [main/INFO]: All 4 have been reloaded properly
-[15:28:13] [main/INFO]: All 4 have been set properly
-[15:28:13] [main/INFO]: All 4 have been reloaded properly
-[15:28:13] [main/INFO]: All 4 have been set properly
-[15:28:13] [main/INFO]: All 4 have been reloaded properly
-[15:28:13] [main/INFO]: All 4 have been set properly
-[15:28:13] [main/INFO]: All 4 have been reloaded properly
-[15:28:13] [main/INFO]: All 4 have been set properly
-[15:28:13] [main/INFO]: All 4 have been reloaded properly
-[15:28:13] [main/INFO]: Complete!
-[15:28:13] [main/INFO]: Loaded C2B lib.
-[15:28:13] [main/INFO]: Initialized entity types.
-[15:28:13] [main/INFO]: Channelling eldritch energies...
-[15:28:13] [main/INFO]: ExpandAbility here, who dis?
-[15:28:13] [main/INFO]: [STDOUT]: Generating config file for mod: toughness bars.
-[15:28:13] [main/INFO]: Configs: vanillaDrops = false ; minecraftOST = true ; helltakerOST = true ; helltakerRemixes = true ; ddlcOST = true ; 
-[15:28:13] [main/INFO]: Farmer's Knives loaded!
-[15:28:13] [main/INFO]: Registering events listeners...
-[15:28:13] [main/INFO]: Registering sound effects...
-[15:28:13] [main/INFO]: Registering status effects for lightwithin
-[15:28:13] [main/INFO]: Registering items...
-[15:28:14] [main/INFO]: Origins 1.7.1 is initializing. Have fun!
-[15:28:14] [main/INFO]: Loaded 207 hat entries from simplehats.json
-[15:28:15] [main/ERROR]: No data fixer registered for hatdisplay
-[15:28:15] [main/INFO]: Generated 207 hat items from hat entries.
-[15:28:15] [main/INFO]: Reloading config
-[15:28:15] [main/INFO]: Reloading reverb parameters
-[15:28:15] [main/INFO]: "./config/byg/overworld/byg-overworld-biomes.json5" was read.
-[15:28:15] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[15:28:15] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[15:28:15] [main/INFO]: Registered region byg:region_0 to index 1 for type OVERWORLD
-[15:28:15] [main/INFO]: Registered region byg:region_1 to index 2 for type OVERWORLD
-[15:28:15] [main/INFO]: Registered region byg:region_2 to index 3 for type OVERWORLD
-[15:28:15] [main/INFO]: Registered region byg:region_3 to index 4 for type OVERWORLD
-[15:28:15] [main/INFO]: Registered region terrestria:overworld to index 5 for type OVERWORLD
-[15:28:15] [main/INFO]: Registered region terrestria:overworld_rare to index 6 for type OVERWORLD
-[15:28:15] [main/INFO]: Enabling Terrestria's TerraBlender worldgen module.
-[15:28:15] [main/INFO]: Config loaded
-[15:28:15] [main/INFO]: Tom's Storage Setup starting
-[15:28:16] [main/INFO]: Registered region traverse:overworld to index 7 for type OVERWORLD
-[15:28:16] [main/INFO]: Enabling Traverse's TerraBlender worldgen module.
-[15:28:16] [main/INFO]: Loading unstructured
-[15:28:16] [main/INFO]: Hello from UFU! Remember to make backups!
-[15:28:16] [main/INFO]: Finished reading ufu.txt, found 383 valid pairs
-[15:28:16] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@16baab93]
-[15:28:16] [main/INFO]: WorldEdit for Fabric (version 7.2.12+6240-87f4ae1) is loaded
-[15:28:16] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
-[15:28:16] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
-[15:28:16] [main/INFO]: [WTHIT] Registering plugin betternether:global at org.betterx.betternether.integrations.wthit.WailaPlugin
-[15:28:16] [main/INFO]: [betternether] Registering Waila-/Wthit-Plugin.
-[15:28:16] [main/INFO]: [WTHIT] Registering plugin polymer:main at eu.pb4.polymer.impl.client.compat.WthitCompatibility
-[15:28:16] [main/INFO]: [WTHIT] Registering plugin nameplate:plugin at net.nameplate.waila.NameplateWailaPlugin
-[15:28:16] [main/INFO]: [WTHIT] Plugin config reloaded
-[15:28:16] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[15:28:16] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
-[15:28:16] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[15:28:16] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[15:28:16] [main/INFO]: [betterend] Registered betterend:old_bulbis_gardens
-[15:28:16] [main/INFO]: onInitialize complete
-[15:28:16] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
-[15:28:16] [main/WARN]: Failed to find custom wood type byg:embur
-[15:28:16] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
-[15:28:16] [main/INFO]: Initialized block sets in 18ms
-[15:28:16] [main/ERROR]: No data fixer registered for immersive_weathering:falling_icicle
-[15:28:16] [main/ERROR]: No data fixer registered for immersive_weathering:falling_layer
-[15:28:16] [main/ERROR]: No data fixer registered for immersive_weathering:falling_propagule
-[15:28:16] [main/INFO]: Initialized color sets in 23ms
-[15:28:16] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[15:28:16] [main/WARN]: Failed to parse resource pack prompt 'I highly recommend you use the server resource pack. It tries to stay quiet faithful, while adding more things to work with as a builder, and a more immersive experience.'
+[15:46:33] [main/INFO]: apoli.mixins.json:ItemSlotArgumentTypeAccessor from mod apoli->@Accessor[FIELD_GETTER]::getSlotNamesToSlotCommandId()Ljava/util/Map; should be static as its target is
+[15:46:34] [main/INFO]: [bclib] Added Config betternether.main to auto sync (file hash)
+[15:46:34] [main/INFO]: [bclib] Added Config betternether.generator to auto sync (file hash)
+[15:46:34] [main/INFO]: [bclib] Added Config betternether.blocks to auto sync (file hash)
+[15:46:34] [main/INFO]: [bclib] Added Config betternether.items to auto sync (file hash)
+[15:46:34] [main/INFO]: [bclib] Added Config betternether.biomes to auto sync (file hash)
+[15:46:34] [main/INFO]: [bclib] Added Config betternether.mobs to auto sync (file hash)
+[15:46:34] [main/INFO]: [bclib] Added Config betternether.recipes to auto sync (file hash)
+[15:46:34] [main/INFO]: Apoli 2.6.1 has initialized. Ready to power up your game!
+[15:46:34] [main/INFO]: Finished initialization
+[15:46:35] [main/INFO]: Reflections took 75 ms to scan 1 urls, producing 1 keys and 3 values
+[15:46:35] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[15:46:35] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 3 values
+[15:46:35] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[15:46:35] [main/INFO]: [bclib] Added Config betterend.entities to auto sync (file hash)
+[15:46:35] [main/INFO]: [bclib] Added Config betterend.blocks to auto sync (file hash)
+[15:46:35] [main/INFO]: [bclib] Added Config betterend.items to auto sync (file hash)
+[15:46:35] [main/INFO]: [bclib] Added Config betterend.biomes to auto sync (file hash)
+[15:46:35] [main/INFO]: [bclib] Added Config betterend.recipes to auto sync (file hash)
+[15:46:35] [main/INFO]: [bclib] Added Config betterend.enchantments to auto sync (file hash)
+[15:46:35] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:46:35] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:46:35] [main/INFO]: [betternether] =^..^=    BetterNether for 1.19    =^..^=
+[15:46:36] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[15:46:36] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[15:46:36] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:46:36] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:46:36] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[15:46:36] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[15:46:36] [main/INFO]: Registering C2S receiver with id brazier:network/555ba35c02ea32b197b369216f2b6d8b
+[15:46:36] [main/INFO]: BYG registries bootstrapped
+[15:46:36] [main/ERROR]: No data fixer registered for byg:boat
+[15:46:36] [main/ERROR]: No data fixer registered for byg:chest_boat
+[15:46:37] [main/INFO]: Initializing BYG network...
+[15:46:37] [main/INFO]: Initialized BYG network!
+[15:46:37] [main/INFO]: Oh The Biomes You'll Go (BYG) was initialized from "Fabric Mod Initializer"
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled AerialAffinityEnchantment
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled AllowTooExpensive
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled AmethystNoteBlock
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled AutoRestock
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled AutomaticRecipeUnlock
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled AzaleaWood
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled BatBuckets
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled BeaconsHealMobs
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled Beekeepers
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled Bookcases
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled CaveSpidersDropCobwebs
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ClearItemFrames
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ColoredNetherPortals
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled CoralSquids
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled Core
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled DiscsStopBackgroundMusic
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled EbonyWood
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled EditableSigns
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled EndermitePowder
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ExtraBoats
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ExtraRecipes
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ExtraTrades
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ExtraWanderingTrades
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ExtractEnchantments
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled GentlePotionParticles
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled GoatsDropMutton
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled GrindableArmor
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled HusksDropSand
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled HusksSpawnUnderground
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ImprovedFortressLoot
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ImprovedMansionLoot
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ImprovedMineshafts
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled Kilns
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled LowerNoteblockPitch
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled Lumberjacks
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled MapTooltip
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled NoChatVerifiedNag
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled NoPetDamage
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled OpenBothDoors
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ParrotsStayOnShoulder
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled PathToDirt
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled PlayerPressurePlates
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled QuickReplant
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled RaidHorns
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled RepairElytraFromLeather
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled RepairNetheriteFromScrap
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled RepairTridentsFromShards
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ShowRepairCost
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ShulkerBoxDragDrop
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled ShulkerBoxTooltip
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled SmoothGlowstone
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled SnowAccumulation
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled StackableEnchantedBooks
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled StackablePotions
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled StackableStews
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled StraysDropBlueIce
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled StraysSpawnUnderground
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled StrongerAnvils
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled VariantBarrels
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled VariantBars
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled VariantBookshelves
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled VariantChains
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled VariantChests
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled VariantLadders
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled VariantLanterns
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled VariantMobTextures
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled VillagersFollowEmeraldBlocks
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled WeatheringIron
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled WitchesDropLuck
+[15:46:37] [main/INFO]: [ModuleLoader] Enabled Woodcutters
+[15:46:37] [main/INFO]: [ModuleLoader] Running AerialAffinityEnchantment
+[15:46:37] [main/INFO]: [ModuleLoader] Running AllowTooExpensive
+[15:46:37] [main/INFO]: [ModuleLoader] Running AmethystNoteBlock
+[15:46:37] [main/INFO]: [ModuleLoader] Running AutoRestock
+[15:46:37] [main/INFO]: [ModuleLoader] Running AutomaticRecipeUnlock
+[15:46:37] [main/INFO]: [ModuleLoader] Running AzaleaWood
+[15:46:37] [main/INFO]: [ModuleLoader] Running BatBuckets
+[15:46:37] [main/INFO]: [ModuleLoader] Running BeaconsHealMobs
+[15:46:37] [main/INFO]: [ModuleLoader] Running Beekeepers
+[15:46:37] [main/INFO]: [ModuleLoader] Running Bookcases
+[15:46:37] [main/INFO]: [ModuleLoader] Running CaveSpidersDropCobwebs
+[15:46:37] [main/INFO]: [ModuleLoader] Running ClearItemFrames
+[15:46:37] [main/INFO]: [ModuleLoader] Running ColoredNetherPortals
+[15:46:37] [main/INFO]: [ModuleLoader] Running CoralSquids
+[15:46:37] [main/INFO]: [ModuleLoader] Running Core
+[15:46:37] [main/INFO]: [ModuleLoader] Running DiscsStopBackgroundMusic
+[15:46:37] [main/INFO]: [ModuleLoader] Running EbonyWood
+[15:46:37] [main/INFO]: [ModuleLoader] Running EditableSigns
+[15:46:37] [main/INFO]: [ModuleLoader] Running EndermitePowder
+[15:46:37] [main/INFO]: [ModuleLoader] Running ExtraBoats
+[15:46:37] [main/INFO]: [ModuleLoader] Running ExtraRecipes
+[15:46:37] [main/INFO]: [ModuleLoader] Running ExtraTrades
+[15:46:37] [main/INFO]: [ModuleLoader] Running ExtraWanderingTrades
+[15:46:37] [main/INFO]: [ModuleLoader] Running ExtractEnchantments
+[15:46:37] [main/INFO]: [ModuleLoader] Running GentlePotionParticles
+[15:46:37] [main/INFO]: [ModuleLoader] Running GoatsDropMutton
+[15:46:37] [main/INFO]: [ModuleLoader] Running GrindableArmor
+[15:46:37] [main/INFO]: [ModuleLoader] Running HusksDropSand
+[15:46:37] [main/INFO]: [ModuleLoader] Running HusksSpawnUnderground
+[15:46:37] [main/INFO]: [ModuleLoader] Running ImprovedFortressLoot
+[15:46:37] [main/INFO]: [ModuleLoader] Running ImprovedMansionLoot
+[15:46:37] [main/INFO]: [ModuleLoader] Running ImprovedMineshafts
+[15:46:37] [main/INFO]: [ModuleLoader] Running Kilns
+[15:46:37] [main/INFO]: [ModuleLoader] Running LowerNoteblockPitch
+[15:46:37] [main/INFO]: [ModuleLoader] Running Lumberjacks
+[15:46:37] [main/INFO]: [ModuleLoader] Running MapTooltip
+[15:46:37] [main/INFO]: [ModuleLoader] Running NoChatVerifiedNag
+[15:46:37] [main/INFO]: [ModuleLoader] Running NoPetDamage
+[15:46:37] [main/INFO]: [ModuleLoader] Running OpenBothDoors
+[15:46:37] [main/INFO]: [ModuleLoader] Running ParrotsStayOnShoulder
+[15:46:37] [main/INFO]: [ModuleLoader] Running PathToDirt
+[15:46:37] [main/INFO]: [ModuleLoader] Running PlayerPressurePlates
+[15:46:37] [main/INFO]: [ModuleLoader] Running QuickReplant
+[15:46:37] [main/INFO]: [ModuleLoader] Running RaidHorns
+[15:46:37] [main/INFO]: [ModuleLoader] Running RepairElytraFromLeather
+[15:46:37] [main/INFO]: [ModuleLoader] Running RepairNetheriteFromScrap
+[15:46:37] [main/INFO]: [ModuleLoader] Running RepairTridentsFromShards
+[15:46:37] [main/INFO]: [ModuleLoader] Running ShowRepairCost
+[15:46:37] [main/INFO]: [ModuleLoader] Running ShulkerBoxDragDrop
+[15:46:37] [main/INFO]: [ModuleLoader] Running ShulkerBoxTooltip
+[15:46:37] [main/INFO]: [ModuleLoader] Running SmoothGlowstone
+[15:46:37] [main/INFO]: [ModuleLoader] Running SnowAccumulation
+[15:46:37] [main/INFO]: [ModuleLoader] Running StackableEnchantedBooks
+[15:46:37] [main/INFO]: [ModuleLoader] Running StackablePotions
+[15:46:37] [main/INFO]: [ModuleLoader] Running StackableStews
+[15:46:37] [main/INFO]: [ModuleLoader] Running StraysDropBlueIce
+[15:46:37] [main/INFO]: [ModuleLoader] Running StraysSpawnUnderground
+[15:46:37] [main/INFO]: [ModuleLoader] Running StrongerAnvils
+[15:46:37] [main/INFO]: [ModuleLoader] Running VariantBarrels
+[15:46:37] [main/INFO]: [ModuleLoader] Running VariantBars
+[15:46:37] [main/INFO]: [ModuleLoader] Running VariantBookshelves
+[15:46:37] [main/INFO]: [ModuleLoader] Running VariantChains
+[15:46:37] [main/INFO]: [ModuleLoader] Running VariantChests
+[15:46:37] [main/INFO]: [ModuleLoader] Running VariantLadders
+[15:46:37] [main/INFO]: [ModuleLoader] Running VariantLanterns
+[15:46:37] [main/INFO]: [ModuleLoader] Running VariantMobTextures
+[15:46:37] [main/INFO]: [ModuleLoader] Running VillagersFollowEmeraldBlocks
+[15:46:37] [main/INFO]: [ModuleLoader] Running WeatheringIron
+[15:46:37] [main/INFO]: [ModuleLoader] Running WitchesDropLuck
+[15:46:37] [main/INFO]: [ModuleLoader] Running Woodcutters
+[15:46:37] [main/INFO]: Enabling Cinderscapes' Fabric Biome API worldgen module.
+[15:46:37] [main/INFO]: Initializing...
+[15:46:37] [main/INFO]: All 4 have been set properly
+[15:46:37] [main/INFO]: All 4 have been set properly
+[15:46:37] [main/INFO]: All 4 have been reloaded properly
+[15:46:37] [main/INFO]: All 4 have been set properly
+[15:46:37] [main/INFO]: All 4 have been reloaded properly
+[15:46:37] [main/INFO]: All 4 have been set properly
+[15:46:37] [main/INFO]: All 4 have been reloaded properly
+[15:46:37] [main/INFO]: All 4 have been set properly
+[15:46:37] [main/INFO]: All 4 have been reloaded properly
+[15:46:37] [main/INFO]: All 4 have been set properly
+[15:46:37] [main/INFO]: All 4 have been reloaded properly
+[15:46:37] [main/INFO]: Complete!
+[15:46:37] [main/INFO]: Loaded C2B lib.
+[15:46:37] [main/INFO]: Initialized entity types.
+[15:46:37] [main/INFO]: Channelling eldritch energies...
+[15:46:37] [main/INFO]: ExpandAbility here, who dis?
+[15:46:37] [main/INFO]: [STDOUT]: Generating config file for mod: toughness bars.
+[15:46:37] [main/INFO]: Configs: vanillaDrops = false ; minecraftOST = true ; helltakerOST = true ; helltakerRemixes = true ; ddlcOST = true ; 
+[15:46:37] [main/INFO]: Farmer's Knives loaded!
+[15:46:38] [main/INFO]: Registering events listeners...
+[15:46:38] [main/INFO]: Registering sound effects...
+[15:46:38] [main/INFO]: Registering status effects for lightwithin
+[15:46:38] [main/INFO]: Registering items...
+[15:46:38] [main/INFO]: Origins 1.7.1 is initializing. Have fun!
+[15:46:39] [main/INFO]: Loaded 207 hat entries from simplehats.json
+[15:46:40] [main/ERROR]: No data fixer registered for hatdisplay
+[15:46:40] [main/INFO]: Generated 207 hat items from hat entries.
+[15:46:40] [main/INFO]: Reloading config
+[15:46:40] [main/INFO]: Reloading reverb parameters
+[15:46:40] [main/INFO]: "./config/byg/overworld/byg-overworld-biomes.json5" was read.
+[15:46:40] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[15:46:40] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[15:46:40] [main/INFO]: Registered region byg:region_0 to index 1 for type OVERWORLD
+[15:46:40] [main/INFO]: Registered region byg:region_1 to index 2 for type OVERWORLD
+[15:46:40] [main/INFO]: Registered region byg:region_2 to index 3 for type OVERWORLD
+[15:46:40] [main/INFO]: Registered region byg:region_3 to index 4 for type OVERWORLD
+[15:46:40] [main/INFO]: Registered region terrestria:overworld to index 5 for type OVERWORLD
+[15:46:40] [main/INFO]: Registered region terrestria:overworld_rare to index 6 for type OVERWORLD
+[15:46:40] [main/INFO]: Enabling Terrestria's TerraBlender worldgen module.
+[15:46:40] [main/INFO]: Config loaded
+[15:46:40] [main/INFO]: Tom's Storage Setup starting
+[15:46:40] [main/INFO]: Registered region traverse:overworld to index 7 for type OVERWORLD
+[15:46:40] [main/INFO]: Enabling Traverse's TerraBlender worldgen module.
+[15:46:40] [main/INFO]: Loading unstructured
+[15:46:40] [main/INFO]: Hello from UFU! Remember to make backups!
+[15:46:40] [main/INFO]: Finished reading ufu.txt, found 383 valid pairs
+[15:46:41] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3fe9ce25]
+[15:46:41] [main/INFO]: WorldEdit for Fabric (version 7.2.12+6240-87f4ae1) is loaded
+[15:46:41] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[15:46:41] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[15:46:41] [main/INFO]: [WTHIT] Registering plugin betternether:global at org.betterx.betternether.integrations.wthit.WailaPlugin
+[15:46:41] [main/INFO]: [betternether] Registering Waila-/Wthit-Plugin.
+[15:46:41] [main/INFO]: [WTHIT] Registering plugin nameplate:plugin at net.nameplate.waila.NameplateWailaPlugin
+[15:46:41] [main/INFO]: [WTHIT] Registering plugin polymer:main at eu.pb4.polymer.impl.client.compat.WthitCompatibility
+[15:46:41] [main/INFO]: [WTHIT] Plugin config reloaded
+[15:46:41] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[15:46:41] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[15:46:41] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:46:41] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:46:41] [main/INFO]: [betterend] Registered betterend:old_bulbis_gardens
+[15:46:41] [main/INFO]: onInitialize complete
+[15:46:41] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
+[15:46:41] [main/WARN]: Failed to find custom wood type byg:embur
+[15:46:41] [main/WARN]: Found block type with duplicate id (minecraft:oak), skipping
+[15:46:41] [main/INFO]: Initialized block sets in 24ms
+[15:46:41] [main/ERROR]: No data fixer registered for immersive_weathering:falling_icicle
+[15:46:41] [main/ERROR]: No data fixer registered for immersive_weathering:falling_layer
+[15:46:41] [main/ERROR]: No data fixer registered for immersive_weathering:falling_propagule
+[15:46:41] [main/INFO]: Initialized color sets in 25ms
+[15:46:42] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[15:46:42] [main/WARN]: Failed to parse resource pack prompt 'I highly recommend you use the server resource pack. It tries to stay quiet faithful, while adding more things to work with as a builder, and a more immersive experience.'
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
 	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[gson-2.8.9.jar:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:65) ~[gson-2.8.9.jar:?]
@@ -567,765 +568,291 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:424) ~[gson-2.8.9.jar:?]
 	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[gson-2.8.9.jar:?]
 	... 15 more
-[15:28:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:28:16] [main/INFO]: [worlds_together] Creating a new World, no fixes needed
-[15:28:16] [main/INFO]: [DataFixerAPI] Applying Patch{betternether:5.3.5:21020677}
-[15:28:16] [main/INFO]: [DataFixerAPI] Updating Patch-Level for 'betternether' from 0.0.0 to 5.3.5
-[15:28:17] [main/INFO]: Found new data pack Immersive Weathering Generated Pack, loading it automatically
-[15:28:17] [main/INFO]: ARRP register - before vanilla
-[15:28:17] [main/INFO]: ARRP register - after vanilla
-[15:28:17] [main/INFO]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack in: 21 ms
-[15:28:18] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - Nether BiomeSource (55da0728)
+[15:46:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:46:42] [main/INFO]: [DataFixerAPI] Ignoring Patch{betternether:5.3.5:21020677}
+[15:46:42] [main/INFO]: [bclib] Running Pre Patchers on ./world/.
+[15:46:42] [main/INFO]: [DataFixerAPI] Everything up to date
+[15:46:42] [main/INFO]: ARRP register - before vanilla
+[15:46:42] [main/INFO]: ARRP register - after vanilla
+[15:46:42] [main/INFO]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack in: 21 ms
+[15:46:43] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (7d7e5456)
     biomes     = 31
     namespaces = betternether, cinderscapes, minecraft
     seed       = 0
     height     = 128
     config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
-[15:28:18] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:18] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:18] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - The End BiomeSource (4f448d5)
+[15:46:43] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[15:46:43] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[15:46:43] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (524c3f44)
     biomes     = 26
     namespaces = betterend, minecraft
     seed       = 0
     height     = 128
     deciders   = 1
     config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
-[15:28:18] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - Nether BiomeSource (34d2e363)
+[15:46:43] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (5dc99f35)
     biomes     = 31
     namespaces = betternether, cinderscapes, minecraft
     seed       = 0
     height     = 128
     config     = BCLibNetherBiomeSourceConfig{mapVersion=square}
-[15:28:18] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:18] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:18] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - The End BiomeSource (8830285)
+[15:46:43] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[15:46:43] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[15:46:43] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (488cfcf9)
     biomes     = 26
     namespaces = betterend, minecraft
     seed       = 0
     height     = 128
     deciders   = 1
     config     = BCLEndBiomeSourceConfig{mapVersion=square, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
-[15:28:21] [main/ERROR]: [worlds_together] Unable to parse Version in jar:file:///home/liabri/loghob/minecraft/akitio/server/mods/nyfsquiver-Fabric-0.5.1-1.19.2.jar
-[15:28:21] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:21] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:21] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - The End BiomeSource (6aa7bfd4)
+[15:46:47] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[15:46:47] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[15:46:47] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[15:46:47] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (3caf776d)
+    biomes     = 26
+    namespaces = betterend, minecraft
+    seed       = -1384623753653743709
+    height     = 128
+    deciders   = 1
+    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[15:46:48] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (5e458348)
+    biomes     = 31
+    namespaces = betternether, cinderscapes, minecraft
+    seed       = -1384623753653743709
+    height     = 256
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[15:46:48] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[15:46:48] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[15:46:48] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (4fd88d72)
     biomes     = 26
     namespaces = betterend, minecraft
     seed       = 0
     height     = 128
     deciders   = 1
     config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
-[15:28:21] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - Nether BiomeSource (41039f0f)
+[15:46:48] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (30602bc8)
     biomes     = 31
     namespaces = betternether, cinderscapes, minecraft
     seed       = 0
     height     = 256
     config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
-[15:28:21] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:21] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:21] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[15:28:21] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:21] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:21] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - The End BiomeSource (2306e18e)
-    biomes     = 26
-    namespaces = betterend, minecraft
-    seed       = 0
-    height     = 128
-    deciders   = 1
-    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
-[15:28:21] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - Nether BiomeSource (63bb02a2)
-    biomes     = 31
-    namespaces = betternether, cinderscapes, minecraft
-    seed       = 0
-    height     = 256
-    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
-[15:28:21] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:21] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:21] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - The End BiomeSource (264e7362)
-    biomes     = 26
-    namespaces = betterend, minecraft
-    seed       = 0
-    height     = 128
-    deciders   = 1
-    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
-[15:28:21] [main/INFO]: [bclib] Make sure features are loaded from terrablender
-BCLib - Nether BiomeSource (1f19d47d)
-    biomes     = 31
-    namespaces = betternether, cinderscapes, minecraft
-    seed       = 0
-    height     = 256
-    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
-[15:28:21] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:21] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:21] [main/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[15:28:21] [ForkJoinPool.commonPool-worker-1/ERROR]: Non [a-z0-9/._-] character in path of location: server_translations_api:lang/et_EE.json
-[15:28:21] [Worker-Main-7/ERROR]: Couldn't load tag unstructured:explorer_maps/village as it is missing following references: minecraft:village (from Unstructured)
-[15:28:21] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:powder_snow_walkable_mobs as it is missing following references: creatures_of_the_snow:snowseal (from Creatures Of The Snow), creatures_of_the_snow:snowtrover (from Creatures Of The Snow)
-[15:28:21] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:freeze_immune_entity_types as it is missing following references: creatures_of_the_snow:snowseal (from Creatures Of The Snow), creatures_of_the_snow:snowtrover (from Creatures Of The Snow)
-[15:28:21] [Worker-Main-1/ERROR]: Couldn't load tag immersive_weathering:light_freeze_immune as it is missing following references: #minecraft:freeze_immune_entity_types (from Immersive Weathering)
-[15:28:22] [Worker-Main-5/ERROR]: Couldn't load tag environmentz:warm_armor as it is missing following references: betternether:cincinnasite_helmet_chestplate (from Better Nether), betternether:cincinnasite_helmet_leggings (from Better Nether), betternether:cincinnasite_helmet_boots (from Better Nether)
-[15:28:22] [main/INFO]: Loaded 14 recipes
-[15:28:22] [main/INFO]: "./config/byg/settings.json5" was read.
-[15:28:23] [main/ERROR]: Couldn't load advancement charm:endermite_powder/obtain_endermite_powder: Task Advancement{parentId=charm:block_of_ender_pearls/convert_silverfish, display=net.minecraft.class_185@7b67467c, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.class_2158$class_2159@4592cc2d}, criteria={obtained_endermite_powder=net.minecraft.class_175@197886e3}, requirements=[[obtained_endermite_powder]]}
-[15:28:23] [main/ERROR]: Couldn't load advancement charm:endermite_powder/use_endermite_powder: Task Advancement{parentId=charm:endermite_powder/obtain_endermite_powder, display=net.minecraft.class_185@4fac001a, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.class_2158$class_2159@4592cc2d}, criteria={used_endermite_powder=net.minecraft.class_175@12bed892}, requirements=[[used_endermite_powder]]}
-[15:28:23] [main/INFO]: Loaded 4307 advancements
-[15:28:23] [main/INFO]: Finished loading powers from data files. Registry contains 103 powers.
-[15:28:23] [main/INFO]: Finished loading origins from data files. Registry contains 25 origins.
-[15:28:23] [main/INFO]: Trying to read layer file: origins-classes:class
-[15:28:23] [main/INFO]: Trying to read layer file: origins:origin
-[15:28:23] [main/INFO]: Finished loading origin layers from data files. Read 2 layers.
-[15:28:23] [main/INFO]: Gobber Mod Info Message: Max value of attribute.name.generic.armor is currently set to 2.147483647E9
-[15:28:23] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 5550 translation keys
-[15:28:23] [main/INFO]: Loading Spellbound Prospector Treasures.
-[15:28:23] [main/INFO]: Loaded 0 Prospector Treasures.
-[15:28:23] [main/INFO]: Loaded 10 Prospector Tags.
-[15:28:23] [main/INFO]: Loaded 1 Prospector Blocks.
-[15:28:23] [main/INFO]: Loaded 30 recipes
-[15:28:23] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: generate:base_blocks
-[15:28:28] [main/INFO]: Loaded 84 block growths configurations
-[15:28:28] [main/INFO]: Loaded 13 liquid generators configurations
-[15:28:28] [main/INFO]: Forcing world upgrade!
-[15:28:28] [main/INFO]: Counting chunks...
-[15:28:29] [main/INFO]: "./config/byg/nether-biomes.json5" was read.
-[15:28:29] [main/INFO]: "./config/byg/end-biomes.json5" was read.
-[15:28:29] [main/INFO]: Applied 3645 biome modifications to 318 of 318 new biomes in 78.56 ms
-[15:28:29] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:29] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
-[15:28:29] [main/INFO]: "./config/byg/surface_rules/end_surface_rules.json5" was read.
-[15:28:29] [main/INFO]: "./config/byg/surface_rules/nether_surface_rules.json5" was read.
-[15:28:29] [main/INFO]: "./config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[15:28:29] [Server thread/INFO]: [WTHIT] Plugin config reloaded
-[15:28:29] [Server thread/INFO]: onWorldStart complete
-[15:28:29] [Server thread/INFO]: "Oh The Biomes You'll Go" after registries freeze event firing...
-[15:28:29] [Server thread/INFO]: "./config/byg/growing-patterns.json5" was read.
-[15:28:29] [Server thread/INFO]: "./config/byg/trades.json5" was read.
-[15:28:29] [Server thread/INFO]: "./config/byg/biomepedia.json5" was read.
-[15:28:29] [Server thread/INFO]: Created compressed zip back up for "./config/byg" in "./config/byg/backups/last_working_configs_backup.zip"
-[15:28:29] [Server thread/INFO]: BYG: Compostible Blocks Added!
-[15:28:29] [Server thread/INFO]: BYG: Added tillables!
-[15:28:29] [Server thread/INFO]: BYG: Added Flammables!
-[15:28:29] [Server thread/INFO]: BYG: "Load Complete" Event Complete!
-[15:28:29] [Server thread/INFO]: BYG: Added strippable Blocks...
-[15:28:29] [Server thread/INFO]: "Oh The Biomes You'll Go" after registries freeze event complete!
-[15:28:29] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[15:28:29] [Server thread/INFO]: Loading properties
-[15:28:29] [Server thread/INFO]: Default game type: SURVIVAL
-[15:28:29] [Server thread/INFO]: Generating keypair
-[15:28:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:28:29] [Server thread/INFO]: Using epoll channel type
-[15:28:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:28:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:28:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:28:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:28:30] [Server thread/INFO]: Preparing level "world"
-[15:28:30] [Server thread/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[15:29:04] [Worker-Main-5/ERROR]: Hanging entity at invalid position: class_2338{x=71, y=63, z=0}
-[15:29:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:04] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:04] [Server thread/INFO]: "./config/byg/surface_rules/end_surface_rules.json5" was read.
-[15:29:04] [Server thread/INFO]: "./config/byg/surface_rules/nether_surface_rules.json5" was read.
-[15:29:04] [Server thread/INFO]: "./config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[15:29:04] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "bclib:nether_biome_source".
-[15:29:04] [Server thread/INFO]: "./config/byg/surface_rules/end_surface_rules.json5" was read.
-[15:29:04] [Server thread/INFO]: "./config/byg/surface_rules/nether_surface_rules.json5" was read.
-[15:29:04] [Server thread/INFO]: "./config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[15:29:04] [Server thread/INFO]: Loading dimension "minecraft:the_end" with biome source: "bclib:end_biome_source".
-[15:29:04] [Server thread/INFO]: [STDOUT]: [lchunkloader]:(INFO) => Initializing: 0 force loaded chunks
-[15:29:04] [Server thread/INFO]: [STDOUT]: [lchunkloader]:(INFO) => Found: 0 Loaders placed
-[15:29:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:29:05] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:29:05] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:29:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:29:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:29:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:29:06] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[15:29:06] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:06] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:06] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:06] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:06] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:07] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:07] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:07] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:07] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:07] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:29:07] [Worker-Main-7/INFO]: Preparing spawn area: 1%
-[15:29:08] [Worker-Main-5/INFO]: Preparing spawn area: 1%
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:08] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[15:29:09] [Worker-Main-7/INFO]: Preparing spawn area: 1%
-[15:29:10] [Worker-Main-7/INFO]: Preparing spawn area: 1%
-[15:29:10] [Worker-Main-7/INFO]: Preparing spawn area: 1%
-[15:29:10] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[15:29:11] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-4/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[15:29:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[15:29:20] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[15:29:20] [Worker-Main-7/INFO]: Preparing spawn area: 2%
-[15:29:20] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:20] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:20] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:20] [Worker-Main-6/INFO]: Preparing spawn area: 2%
-[15:29:21] [Worker-Main-2/INFO]: Preparing spawn area: 3%
-[15:29:21] [Worker-Main-1/INFO]: Preparing spawn area: 3%
-[15:29:22] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:22] [Worker-Main-7/INFO]: Preparing spawn area: 3%
-[15:29:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:22] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:22] [Worker-Main-7/INFO]: Preparing spawn area: 3%
-[15:29:22] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:23] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:23] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:23] [Worker-Main-5/INFO]: Preparing spawn area: 4%
-[15:29:23] [Worker-Main-7/INFO]: Preparing spawn area: 4%
-[15:29:24] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:24] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:24] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:24] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:24] [Worker-Main-6/INFO]: Preparing spawn area: 5%
-[15:29:24] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:24] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:24] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:24] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:24] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:24] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:24] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:24] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:24] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=175, y=42, z=-28}
-[15:29:24] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=175, y=42, z=-29}
-[15:29:24] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=174, y=42, z=-29}
-[15:29:24] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=174, y=43, z=-29}
-[15:29:24] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=175, y=43, z=-29}
-[15:29:24] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=175, y=44, z=-29}
-[15:29:24] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=174, y=44, z=-29}
-[15:29:24] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=176, y=42, z=-29}
-[15:29:24] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=176, y=43, z=-29}
-[15:29:24] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=176, y=44, z=-29}
-[15:29:24] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:24] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:24] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:24] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:24] [Worker-Main-6/INFO]: Preparing spawn area: 6%
-[15:29:28] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[15:29:28] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[15:29:28] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[15:29:28] [Worker-Main-7/INFO]: Preparing spawn area: 6%
-[15:29:28] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[15:29:28] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[15:29:28] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[15:29:29] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[15:29:29] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[15:29:30] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[15:29:30] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[15:29:30] [Worker-Main-4/INFO]: Preparing spawn area: 6%
-[15:29:31] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:31] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:31] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:31] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:31] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:31] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:31] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[15:29:31] [Worker-Main-4/INFO]: Preparing spawn area: 7%
-[15:29:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:32] [Worker-Main-7/INFO]: Preparing spawn area: 8%
-[15:29:32] [Worker-Main-4/INFO]: Preparing spawn area: 9%
-[15:29:33] [Worker-Main-4/INFO]: Preparing spawn area: 9%
-[15:29:34] [Worker-Main-6/INFO]: Preparing spawn area: 9%
-[15:29:34] [Worker-Main-6/INFO]: Preparing spawn area: 9%
-[15:29:34] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[15:29:39] [Worker-Main-5/INFO]: Preparing spawn area: 10%
-[15:29:39] [Worker-Main-6/INFO]: Preparing spawn area: 10%
-[15:29:39] [Worker-Main-5/INFO]: Preparing spawn area: 10%
-[15:29:39] [Worker-Main-7/INFO]: Preparing spawn area: 10%
-[15:29:39] [Worker-Main-7/INFO]: Preparing spawn area: 10%
-[15:29:39] [Worker-Main-7/INFO]: Preparing spawn area: 10%
-[15:29:39] [Worker-Main-7/INFO]: Preparing spawn area: 10%
-[15:29:39] [Worker-Main-5/INFO]: Preparing spawn area: 10%
-[15:29:39] [Worker-Main-5/INFO]: Preparing spawn area: 10%
-[15:29:39] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:39] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:40] [Worker-Main-6/INFO]: Preparing spawn area: 10%
-[15:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[15:29:40] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:40] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:41] [Worker-Main-6/INFO]: Preparing spawn area: 10%
-[15:29:41] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[15:29:41] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:41] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:41] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:41] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:41] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:41] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:41] [Worker-Main-5/INFO]: Preparing spawn area: 11%
-[15:29:42] [Worker-Main-6/INFO]: Preparing spawn area: 12%
-[15:29:42] [Worker-Main-6/INFO]: Preparing spawn area: 13%
-[15:29:43] [Worker-Main-7/INFO]: Preparing spawn area: 14%
-[15:29:44] [Worker-Main-2/INFO]: Preparing spawn area: 15%
-[15:29:44] [Worker-Main-2/INFO]: Preparing spawn area: 15%
-[15:29:44] [Worker-Main-6/INFO]: Preparing spawn area: 15%
-[15:29:45] [Worker-Main-7/INFO]: Preparing spawn area: 15%
-[15:29:45] [Worker-Main-2/INFO]: Preparing spawn area: 16%
-[15:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 16%
-[15:29:46] [Worker-Main-4/INFO]: Preparing spawn area: 16%
-[15:29:47] [Worker-Main-4/INFO]: Preparing spawn area: 16%
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:47] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:47] [Worker-Main-5/INFO]: Preparing spawn area: 17%
-[15:29:48] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:48] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:48] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:48] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:48] [Worker-Main-5/INFO]: Preparing spawn area: 17%
-[15:29:49] [Worker-Main-2/INFO]: Preparing spawn area: 17%
-[15:29:49] [Worker-Main-1/INFO]: Preparing spawn area: 17%
-[15:29:49] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[15:29:50] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:50] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:50] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:50] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:50] [Worker-Main-4/INFO]: Preparing spawn area: 20%
-[15:29:51] [Worker-Main-3/INFO]: Preparing spawn area: 21%
-[15:29:51] [Worker-Main-4/INFO]: Preparing spawn area: 21%
-[15:29:51] [Worker-Main-5/INFO]: Preparing spawn area: 22%
-[15:29:52] [Worker-Main-1/INFO]: Preparing spawn area: 22%
-[15:29:52] [Worker-Main-4/INFO]: Preparing spawn area: 22%
-[15:29:53] [Worker-Main-5/INFO]: Preparing spawn area: 23%
-[15:29:54] [Worker-Main-5/INFO]: Preparing spawn area: 23%
-[15:29:54] [Worker-Main-4/INFO]: Preparing spawn area: 23%
-[15:29:56] [Worker-Main-4/INFO]: Preparing spawn area: 23%
-[15:29:56] [Worker-Main-2/INFO]: Preparing spawn area: 23%
-[15:29:56] [Worker-Main-4/INFO]: Preparing spawn area: 23%
-[15:29:56] [Worker-Main-5/INFO]: Preparing spawn area: 23%
-[15:29:56] [Worker-Main-4/INFO]: Preparing spawn area: 24%
-[15:29:57] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:57] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:57] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:57] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-6/INFO]: Preparing spawn area: 24%
-[15:29:57] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:57] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:57] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:57] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:29:57] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:29:57] [Worker-Main-3/INFO]: Preparing spawn area: 25%
-[15:29:58] [Worker-Main-5/INFO]: Preparing spawn area: 25%
-[15:29:58] [Worker-Main-7/INFO]: Preparing spawn area: 26%
-[15:29:59] [Worker-Main-1/INFO]: Preparing spawn area: 27%
-[15:29:59] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=227, y=74, z=-8}
-[15:29:59] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=226, y=70, z=-7}
-[15:29:59] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=227, y=68, z=-8}
-[15:29:59] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=232, y=74, z=0}
-[15:29:59] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=223, y=74, z=9}
-[15:29:59] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=223, y=74, z=8}
-[15:29:59] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=225, y=74, z=8}
-[15:29:59] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=227, y=74, z=9}
-[15:29:59] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=225, y=74, z=10}
-[15:29:59] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=229, y=76, z=4}
-[15:29:59] [Worker-Main-4/INFO]: Preparing spawn area: 28%
-[15:30:00] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:00] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:00] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:00] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:00] [Worker-Main-6/INFO]: Preparing spawn area: 30%
-[15:30:00] [Worker-Main-1/INFO]: Preparing spawn area: 30%
-[15:30:01] [Worker-Main-6/INFO]: Preparing spawn area: 30%
-[15:30:01] [Worker-Main-3/INFO]: Preparing spawn area: 31%
-[15:30:02] [Worker-Main-7/INFO]: Preparing spawn area: 32%
-[15:30:02] [Worker-Main-7/INFO]: Preparing spawn area: 32%
-[15:30:03] [Worker-Main-2/INFO]: Preparing spawn area: 33%
-[15:30:03] [Worker-Main-1/INFO]: Preparing spawn area: 33%
-[15:30:04] [Worker-Main-2/INFO]: Preparing spawn area: 34%
-[15:30:04] [Worker-Main-3/INFO]: Preparing spawn area: 35%
-[15:30:05] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=246, y=69, z=12}
-[15:30:05] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=243, y=70, z=12}
-[15:30:05] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=246, y=70, z=6}
-[15:30:05] [Worker-Main-4/INFO]: Preparing spawn area: 36%
-[15:30:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:05] [Worker-Main-2/INFO]: Preparing spawn area: 36%
-[15:30:05] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:05] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:05] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:05] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:05] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:05] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:05] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:05] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:06] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:06] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:06] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:06] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:06] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:06] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:06] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:06] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:06] [Worker-Main-4/INFO]: Preparing spawn area: 38%
-[15:30:06] [Worker-Main-7/INFO]: Preparing spawn area: 39%
-[15:30:07] [Worker-Main-5/INFO]: Preparing spawn area: 40%
-[15:30:07] [Worker-Main-7/INFO]: Preparing spawn area: 42%
-[15:30:08] [Worker-Main-6/INFO]: Preparing spawn area: 42%
-[15:30:08] [Worker-Main-2/INFO]: Preparing spawn area: 42%
-[15:30:09] [Worker-Main-3/INFO]: Preparing spawn area: 43%
-[15:30:09] [Worker-Main-4/INFO]: Preparing spawn area: 43%
-[15:30:10] [Worker-Main-7/INFO]: Preparing spawn area: 44%
-[15:30:11] [Worker-Main-7/INFO]: Preparing spawn area: 44%
-[15:30:11] [Worker-Main-2/INFO]: Preparing spawn area: 44%
-[15:30:11] [Worker-Main-5/INFO]: Preparing spawn area: 44%
-[15:30:12] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:12] [Worker-Main-6/INFO]: Preparing spawn area: 45%
-[15:30:13] [Worker-Main-1/INFO]: Preparing spawn area: 46%
-[15:30:13] [Worker-Main-7/INFO]: Preparing spawn area: 46%
-[15:30:14] [Worker-Main-3/INFO]: Preparing spawn area: 46%
-[15:30:14] [Worker-Main-2/INFO]: Preparing spawn area: 47%
-[15:30:15] [Worker-Main-3/INFO]: Preparing spawn area: 48%
-[15:30:15] [Worker-Main-7/INFO]: Preparing spawn area: 48%
-[15:30:15] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:15] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:15] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:15] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:15] [Worker-Main-4/INFO]: Preparing spawn area: 48%
-[15:30:15] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:15] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:15] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:15] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:16] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:16] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:16] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:16] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:16] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:16] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:16] [Worker-Main-6/INFO]: Preparing spawn area: 50%
-[15:30:17] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[15:30:17] [Worker-Main-4/INFO]: Preparing spawn area: 52%
-[15:30:21] [Worker-Main-1/INFO]: Preparing spawn area: 52%
-[15:30:21] [Worker-Main-1/INFO]: Preparing spawn area: 52%
-[15:30:21] [Worker-Main-6/INFO]: Preparing spawn area: 52%
-[15:30:21] [Worker-Main-5/INFO]: Preparing spawn area: 52%
-[15:30:21] [Worker-Main-5/INFO]: Preparing spawn area: 52%
-[15:30:21] [Worker-Main-5/INFO]: Preparing spawn area: 52%
-[15:30:21] [Worker-Main-5/INFO]: Preparing spawn area: 52%
-[15:30:21] [Worker-Main-5/INFO]: Preparing spawn area: 52%
-[15:30:21] [Worker-Main-5/INFO]: Preparing spawn area: 54%
-[15:30:22] [Worker-Main-3/INFO]: Preparing spawn area: 54%
-[15:30:22] [Worker-Main-4/INFO]: Preparing spawn area: 54%
-[15:30:23] [Worker-Main-4/INFO]: Preparing spawn area: 55%
-[15:30:23] [Worker-Main-4/INFO]: Preparing spawn area: 55%
-[15:30:24] [Worker-Main-6/INFO]: Preparing spawn area: 55%
-[15:30:25] [Worker-Main-5/INFO]: Preparing spawn area: 56%
-[15:30:25] [Worker-Main-3/INFO]: Preparing spawn area: 56%
-[15:30:25] [Worker-Main-7/INFO]: Preparing spawn area: 57%
-[15:30:26] [Worker-Main-6/INFO]: Preparing spawn area: 58%
-[15:30:26] [Worker-Main-7/INFO]: Preparing spawn area: 59%
-[15:30:27] [Worker-Main-6/INFO]: Preparing spawn area: 61%
-[15:30:27] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:27] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:27] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:27] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:27] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:27] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:27] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[15:30:27] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:27] [Worker-Main-7/INFO]: Preparing spawn area: 62%
-[15:30:28] [Worker-Main-6/INFO]: Preparing spawn area: 64%
-[15:30:29] [Worker-Main-5/INFO]: Preparing spawn area: 65%
-[15:30:29] [Worker-Main-4/INFO]: Preparing spawn area: 66%
-[15:30:29] [Worker-Main-6/INFO]: Preparing spawn area: 66%
-[15:30:30] [Worker-Main-3/INFO]: Preparing spawn area: 68%
-[15:30:30] [Worker-Main-3/INFO]: Preparing spawn area: 68%
-[15:30:31] [Worker-Main-4/INFO]: Preparing spawn area: 68%
-[15:30:31] [Worker-Main-4/INFO]: Preparing spawn area: 69%
-[15:30:32] [Worker-Main-5/INFO]: Preparing spawn area: 69%
-[15:30:32] [Worker-Main-2/INFO]: Preparing spawn area: 70%
-[15:30:33] [Worker-Main-4/INFO]: Preparing spawn area: 71%
-[15:30:33] [Worker-Main-3/INFO]: Preparing spawn area: 73%
-[15:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 73%
-[15:30:34] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 74%
-[15:30:36] [Worker-Main-5/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
-[15:30:39] [Worker-Main-5/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
-[15:30:40] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[15:30:40] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[15:30:40] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[15:30:40] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[15:30:40] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[15:30:40] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[15:30:40] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[15:30:40] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[15:30:40] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[15:30:40] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[15:30:40] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[15:30:40] [Worker-Main-5/INFO]: Preparing spawn area: 75%
-[15:30:41] [Worker-Main-3/INFO]: Preparing spawn area: 75%
-[15:30:41] [Worker-Main-6/WARN]: Unable to read property: candles with value: true for blockstate: {Name:"minecraft:candle",Properties:{candles:"true",count:"2",waterlogged:"false"}}
-[15:30:41] [Worker-Main-1/INFO]: Preparing spawn area: 77%
-[15:30:42] [Worker-Main-7/INFO]: Preparing spawn area: 79%
-[15:30:42] [Worker-Main-6/INFO]: Preparing spawn area: 80%
-[15:30:43] [Worker-Main-4/INFO]: Preparing spawn area: 81%
-[15:30:43] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[15:30:44] [Worker-Main-7/INFO]: Preparing spawn area: 83%
-[15:30:44] [Worker-Main-3/INFO]: Preparing spawn area: 84%
-[15:30:45] [Worker-Main-5/INFO]: Preparing spawn area: 84%
-[15:30:45] [Worker-Main-3/INFO]: Preparing spawn area: 84%
-[15:30:47] [Worker-Main-6/INFO]: Preparing spawn area: 84%
-[15:30:47] [Worker-Main-6/INFO]: Preparing spawn area: 84%
-[15:30:47] [Worker-Main-3/INFO]: Preparing spawn area: 85%
-[15:30:47] [Worker-Main-1/INFO]: Preparing spawn area: 86%
-[15:30:48] [Worker-Main-2/INFO]: Preparing spawn area: 86%
-[15:30:48] [Worker-Main-3/INFO]: Preparing spawn area: 86%
-[15:30:49] [Worker-Main-3/INFO]: Preparing spawn area: 87%
-[15:30:49] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:49] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:30:49] [Worker-Main-5/INFO]: Preparing spawn area: 88%
-[15:30:50] [Worker-Main-1/INFO]: Preparing spawn area: 89%
-[15:30:50] [Worker-Main-5/INFO]: Preparing spawn area: 89%
-[15:30:51] [Worker-Main-7/INFO]: Preparing spawn area: 91%
-[15:30:51] [Worker-Main-4/INFO]: Preparing spawn area: 92%
-[15:30:52] [Worker-Main-3/INFO]: Preparing spawn area: 93%
-[15:30:52] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[15:30:53] [Worker-Main-7/INFO]: Preparing spawn area: 96%
-[15:30:53] [Worker-Main-4/INFO]: Preparing spawn area: 98%
-[15:30:54] [Server thread/INFO]: Time elapsed: 109773 ms
-[15:30:54] [Server thread/INFO]: Done (144.112s)! For help, type "help"
-[15:30:54] [Thread-8/INFO]: Loading BlueMap...
-[15:30:54] [Server thread/INFO]: Getting variables values from the data file...
-[15:30:54] [Server thread/ERROR]: There was an error while reading on the file
-[15:30:54] [Server thread/INFO]: [STDERR]: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT at line 1 column 2 path $
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at com.google.gson.Gson.fromJson(Gson.java:975)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at com.google.gson.Gson.fromJson(Gson.java:928)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at com.google.gson.Gson.fromJson(Gson.java:877)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at me.emafire003.dev.coloredglowlib.util.DataSaver.getDefaultColor(DataSaver.java:190)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at me.emafire003.dev.coloredglowlib.ColoredGlowLib.getValuesFromFile(ColoredGlowLib.java:186)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at me.emafire003.dev.coloredglowlib.ColoredGlowLib.lambda$new$1(ColoredGlowLib.java:56)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$2(ServerLifecycleEvents.java:49)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.handler$bkh000$afterSetupServer(MinecraftServer.java:5801)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:644)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:833)
-[15:30:54] [Server thread/INFO]: [STDERR]: Caused by: java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT at line 1 column 2 path $
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at com.google.gson.stream.JsonReader.nextString(JsonReader.java:824)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at com.google.gson.internal.bind.TypeAdapters$15.read(TypeAdapters.java:380)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at com.google.gson.internal.bind.TypeAdapters$15.read(TypeAdapters.java:368)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	at com.google.gson.Gson.fromJson(Gson.java:963)
-[15:30:54] [Server thread/INFO]: [STDERR]: 	... 10 more
-[15:30:54] [Server thread/INFO]: Done!
-[15:30:54] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
-[15:30:54] [Server thread/INFO]: All 4 have been set properly
-[15:30:54] [Server thread/INFO]: All 4 have been reloaded properly
-[15:30:54] [Server thread/INFO]: All 65 have been set properly
-[15:30:54] [Server thread/INFO]: All 65 have been reloaded properly
-[15:30:54] [Thread-8/INFO]: Downloading https://launcher.mojang.com/v1/objects/c0898ec7c6a5a2eaa317770203a1554260699994/client.jar to bluemap/minecraft-client-1.19.0.jar ...
-[15:31:09] [Thread-8/INFO]: Loading resources...
-[15:31:12] [Thread-8/INFO]: Loading textures...
-[15:31:16] [Thread-8/INFO]: Baking resources...
-[15:31:16] [Thread-8/INFO]: Resources loaded.
-[15:31:16] [Thread-8/INFO]: Initializing Storage: 'file' (Type: FILE)
-[15:31:16] [Thread-9/INFO]: WebServer bound to: 0.0.0.0/0.0.0.0:8100
-[15:31:16] [Thread-9/INFO]: WebServer started.
-[15:31:16] [Thread-8/INFO]: BlueMap loaded!
-[15:31:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16857ms or 337 ticks behind
-[15:32:01] [Server thread/INFO]: Incorrect argument for command
-[15:32:01] [Server thread/INFO]: bluemap render<--[HERE]
-[15:32:04] [Server thread/INFO]: BlueMap - Status:
-[15:32:04] [Server thread/INFO]:  Render-Threads are running!
-[15:32:04] [Server thread/INFO]:  Queued Tasks (1):
-[15:32:04] [Server thread/INFO]:   [1e08] Update region (13558, 13558) for map 'overworld'
-[15:32:04] [Server thread/INFO]:    Progress: 100.0%
-[15:32:07] [Server thread/INFO]: BlueMap Commands:
-[15:32:07] [Server thread/INFO]: /bluemap
-[15:32:07] [Server thread/INFO]: /bluemap version
-[15:32:07] [Server thread/INFO]: /bluemap help
-[15:32:07] [Server thread/INFO]: /bluemap reload
-[15:32:07] [Server thread/INFO]: /bluemap debug block
-[15:32:07] [Server thread/INFO]: /bluemap debug block <world> <x> <y> <z>
-[15:32:07] [Server thread/INFO]: /bluemap debug flush
-[15:32:07] [Server thread/INFO]: /bluemap debug flush <world>
-[15:32:07] [Server thread/INFO]: /bluemap debug cache
-[15:32:07] [Server thread/INFO]: /bluemap debug dump
-[15:32:07] [Server thread/INFO]: /bluemap stop
-[15:32:07] [Server thread/INFO]: /bluemap start
-[15:32:07] [Server thread/INFO]: /bluemap freeze <map>
-[15:32:07] [Server thread/INFO]: /bluemap unfreeze <map>
-[15:32:07] [Server thread/INFO]: /bluemap force-update
-[15:32:07] [Server thread/INFO]: /bluemap force-update <radius>
-[15:32:07] [Server thread/INFO]: /bluemap force-update <x> <z> <radius>
-[15:32:07] [Server thread/INFO]: /bluemap force-update <world|map>
-[15:32:07] [Server thread/INFO]: /bluemap force-update <world|map> <x> <z> <radius>
-[15:32:07] [Server thread/INFO]: /bluemap update
-[15:32:07] [Server thread/INFO]: /bluemap update <radius>
-[15:32:07] [Server thread/INFO]: /bluemap update <x> <z> <radius>
-[15:32:07] [Server thread/INFO]: /bluemap update <world|map>
-[15:32:07] [Server thread/INFO]: /bluemap update <world|map> <x> <z> <radius>
-[15:32:07] [Server thread/INFO]: /bluemap cancel
-[15:32:07] [Server thread/INFO]: /bluemap cancel <task-ref>
-[15:32:07] [Server thread/INFO]: /bluemap purge <map>
-[15:32:07] [Server thread/INFO]: /bluemap worlds
-[15:32:07] [Server thread/INFO]: /bluemap maps
-[15:32:07] [Server thread/INFO]: 
-Open this link to get a description for each command:
-https://bluecolo.red/bluemap-commands
-[15:32:11] [Server thread/INFO]: Render-Threads are already running!
-[15:32:43] [Server thread/INFO]: Incorrect argument for command
-[15:32:43] [Server thread/INFO]: bluemap bluemap<--[HERE]
-[15:32:49] [Thread-23/INFO]: Created new Update-Task for map 'overworld' (3 regions, ~3072 chunks)
-[15:32:49] [Thread-23/INFO]: Use /bluemap to see the progress.
-[15:32:51] [Server thread/INFO]: BlueMap - Status:
-[15:32:51] [Server thread/INFO]:  Render-Threads are running!
-[15:32:51] [Server thread/INFO]:  Queued Tasks (2):
-[15:32:51] [Server thread/INFO]:   [1100] Update map 'overworld'
-[15:32:51] [Server thread/INFO]:    Detail: Update region (-1, 0) for map 'overworld'
-[15:32:51] [Server thread/INFO]:    Progress: 44.21%
-[15:32:51] [Server thread/INFO]:   [4007] Update region (0, 0) for map 'overworld'
-[15:32:53] [Server thread/INFO]: BlueMap - Status:
-[15:32:53] [Server thread/INFO]:  Render-Threads are running!
-[15:32:53] [Server thread/INFO]:  Queued Tasks (2):
-[15:32:53] [Server thread/INFO]:   [1100] Update map 'overworld'
-[15:32:53] [Server thread/INFO]:    Detail: Update region (-1, 0) for map 'overworld'
-[15:32:53] [Server thread/INFO]:    Progress: 50.18%
-[15:32:53] [Server thread/INFO]:    ETA: 00:00:02
-[15:32:53] [Server thread/INFO]:   [4007] Update region (0, 0) for map 'overworld'
-[15:35:04] [Server thread/INFO]: Named entity class_1642['Ender Lethargic Thorny Undying Zombie'/101, l='ServerLevel[world]', x=7.46, y=91.00, z=49.54] died: Ender Lethargic Thorny Undying Zombie suffocated in a wall
-[15:36:25] [Server thread/INFO]: Stopping the server
-[15:36:26] [Server thread/INFO]: BlueMap unloaded!
-[15:36:26] [Thread-9/INFO]: WebServer closed.
-[15:36:26] [Server thread/INFO]: Saving the colored glow data to the file...
-[15:36:26] [Server thread/INFO]: Saved!
-[15:36:26] [Server thread/INFO]: Stopping server
-[15:36:26] [Server thread/INFO]: Saving players
-[15:36:26] [Server thread/INFO]: Saving worlds
-[15:36:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:36:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:36:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:36:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:36:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:36:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:36:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[15:36:32] [Server thread/INFO]: closing rrp minecraft:extrarecords
-[15:36:32] [Server thread/ERROR]: Shutdown action failed.
-org.eclipse.jgit.errors.RepositoryNotFoundException: repository not found: /home/liabri/loghob/minecraft/akitio/server/world
-	at org.eclipse.jgit.lib.BaseRepositoryBuilder.build(BaseRepositoryBuilder.java:627) ~[org_eclipse_jgit_org_eclipse_jgi206071550-r-f0955f5ce674565a.jar:?]
-	at org.eclipse.jgit.api.Git.open(Git.java:93) ~[org_eclipse_jgit_org_eclipse_jgi206071550-r-f0955f5ce674565a.jar:?]
-	at org.eclipse.jgit.api.Git.open(Git.java:73) ~[org_eclipse_jgit_org_eclipse_jgi206071550-r-f0955f5ce674565a.jar:?]
-	at net.pcal.fastback.LifecycleUtils.onWorldStop(LifecycleUtils.java:84) ~[fastback-0.7.3+1.19.2.jar:?]
-	at net.pcal.fastback.fabric.FabricServerInitializer.lambda$onInitializeServer$1(FabricServerInitializer.java:46) ~[fastback-0.7.3+1.19.2.jar:?]
-	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$6(ServerLifecycleEvents.java:76) ~[fabric-lifecycle-events-v1-2.2.0+33ffe9ec90-fbd9228dd8adfc4d.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$bkh000$afterShutdownServer(MinecraftServer.java:5811) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:609) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3782(class_3176.java:547) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:833) [?:?]
-[15:36:32] [Server thread/INFO]: onWorldStop complete
-[15:36:32] [Server thread/INFO]: onTermination complete
+[15:46:48] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[15:46:48] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[15:46:48] [main/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[15:46:48] [ForkJoinPool.commonPool-worker-3/ERROR]: Non [a-z0-9/._-] character in path of location: server_translations_api:lang/et_EE.json
+[15:46:48] [Worker-Main-6/ERROR]: Couldn't load tag unstructured:explorer_maps/village as it is missing following references: minecraft:village (from Unstructured)
+[15:46:48] [Worker-Main-6/ERROR]: Couldn't load tag minecraft:powder_snow_walkable_mobs as it is missing following references: creatures_of_the_snow:snowseal (from Creatures Of The Snow), creatures_of_the_snow:snowtrover (from Creatures Of The Snow)
+[15:46:48] [Worker-Main-6/ERROR]: Couldn't load tag minecraft:freeze_immune_entity_types as it is missing following references: creatures_of_the_snow:snowseal (from Creatures Of The Snow), creatures_of_the_snow:snowtrover (from Creatures Of The Snow)
+[15:46:48] [Worker-Main-6/ERROR]: Couldn't load tag immersive_weathering:light_freeze_immune as it is missing following references: #minecraft:freeze_immune_entity_types (from Immersive Weathering)
+[15:46:48] [Worker-Main-2/ERROR]: Couldn't load tag environmentz:warm_armor as it is missing following references: betternether:cincinnasite_helmet_chestplate (from Better Nether), betternether:cincinnasite_helmet_leggings (from Better Nether), betternether:cincinnasite_helmet_boots (from Better Nether)
+[15:46:49] [main/INFO]: Loaded 14 recipes
+[15:46:49] [main/INFO]: "./config/byg/settings.json5" was read.
+[15:46:50] [main/ERROR]: Couldn't load advancement charm:endermite_powder/obtain_endermite_powder: Task Advancement{parentId=charm:block_of_ender_pearls/convert_silverfish, display=net.minecraft.class_185@796b7597, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.class_2158$class_2159@14f36917}, criteria={obtained_endermite_powder=net.minecraft.class_175@7574c97a}, requirements=[[obtained_endermite_powder]]}
+[15:46:50] [main/ERROR]: Couldn't load advancement charm:endermite_powder/use_endermite_powder: Task Advancement{parentId=charm:endermite_powder/obtain_endermite_powder, display=net.minecraft.class_185@2d190934, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.class_2158$class_2159@14f36917}, criteria={used_endermite_powder=net.minecraft.class_175@7ef53af4}, requirements=[[used_endermite_powder]]}
+[15:46:50] [main/INFO]: Loaded 4307 advancements
+[15:46:50] [main/INFO]: Finished loading powers from data files. Registry contains 103 powers.
+[15:46:50] [main/INFO]: Finished loading origins from data files. Registry contains 25 origins.
+[15:46:50] [main/INFO]: Trying to read layer file: origins-classes:class
+[15:46:50] [main/INFO]: Trying to read layer file: origins:origin
+[15:46:50] [main/INFO]: Finished loading origin layers from data files. Read 2 layers.
+[15:46:50] [main/INFO]: Gobber Mod Info Message: Max value of attribute.name.generic.armor is currently set to 2.147483647E9
+[15:46:50] [ForkJoinPool.commonPool-worker-3/INFO]: Loaded 5550 translation keys
+[15:46:50] [main/INFO]: Loading Spellbound Prospector Treasures.
+[15:46:50] [main/INFO]: Loaded 0 Prospector Treasures.
+[15:46:50] [main/INFO]: Loaded 10 Prospector Tags.
+[15:46:50] [main/INFO]: Loaded 1 Prospector Blocks.
+[15:46:50] [main/INFO]: Loaded 30 recipes
+[15:46:50] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: generate:base_blocks
+[15:46:54] [main/INFO]: Loaded 84 block growths configurations
+[15:46:54] [main/INFO]: Loaded 13 liquid generators configurations
+[15:46:54] [main/INFO]: Forcing world upgrade!
+[15:46:54] [main/INFO]: Counting chunks...
+[15:46:55] [pool-8-thread-1/INFO]: World optimizaton finished after 451 ms
+[15:46:55] [main/INFO]: "./config/byg/nether-biomes.json5" was read.
+[15:46:56] [main/INFO]: "./config/byg/end-biomes.json5" was read.
+[15:46:56] [main/INFO]: Applied 3645 biome modifications to 318 of 318 new biomes in 99.13 ms
+[15:46:56] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[15:46:56] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[15:46:56] [main/INFO]: "./config/byg/surface_rules/nether_surface_rules.json5" was read.
+[15:46:56] [main/INFO]: "./config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[15:46:56] [main/INFO]: "./config/byg/surface_rules/end_surface_rules.json5" was read.
+[15:46:56] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[15:46:56] [Server thread/INFO]: onWorldStart complete
+[15:46:56] [Server thread/INFO]: "Oh The Biomes You'll Go" after registries freeze event firing...
+[15:46:56] [Server thread/INFO]: "./config/byg/growing-patterns.json5" was read.
+[15:46:56] [Server thread/INFO]: "./config/byg/trades.json5" was read.
+[15:46:56] [Server thread/INFO]: "./config/byg/biomepedia.json5" was read.
+[15:46:56] [Server thread/INFO]: Created compressed zip back up for "./config/byg" in "./config/byg/backups/last_working_configs_backup.zip"
+[15:46:56] [Server thread/INFO]: BYG: Compostible Blocks Added!
+[15:46:56] [Server thread/INFO]: BYG: Added tillables!
+[15:46:56] [Server thread/INFO]: BYG: Added Flammables!
+[15:46:56] [Server thread/INFO]: BYG: "Load Complete" Event Complete!
+[15:46:56] [Server thread/INFO]: BYG: Added strippable Blocks...
+[15:46:56] [Server thread/INFO]: "Oh The Biomes You'll Go" after registries freeze event complete!
+[15:46:56] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[15:46:56] [Server thread/INFO]: Loading properties
+[15:46:56] [Server thread/INFO]: Default game type: SURVIVAL
+[15:46:56] [Server thread/INFO]: Generating keypair
+[15:46:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:46:56] [Server thread/INFO]: Using epoll channel type
+[15:46:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:46:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:46:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:46:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:46:56] [Server thread/INFO]: Preparing level "world"
+[15:46:57] [Server thread/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[15:46:58] [Server thread/INFO]: "./config/byg/surface_rules/nether_surface_rules.json5" was read.
+[15:46:58] [Server thread/INFO]: "./config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[15:46:58] [Server thread/INFO]: "./config/byg/surface_rules/end_surface_rules.json5" was read.
+[15:46:58] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "bclib:nether_biome_source".
+[15:46:58] [Server thread/INFO]: "./config/byg/surface_rules/nether_surface_rules.json5" was read.
+[15:46:58] [Server thread/INFO]: "./config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[15:46:58] [Server thread/INFO]: "./config/byg/surface_rules/end_surface_rules.json5" was read.
+[15:46:58] [Server thread/INFO]: Loading dimension "minecraft:the_end" with biome source: "bclib:end_biome_source".
+[15:46:58] [Server thread/INFO]: [STDOUT]: [lchunkloader]:(INFO) => Initializing: 0 force loaded chunks
+[15:46:58] [Server thread/INFO]: [STDOUT]: [lchunkloader]:(INFO) => Found: 0 Loaders placed
+[15:46:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:47:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:47:08] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[15:47:09] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[15:47:09] [Worker-Main-1/INFO]: Preparing spawn area: 58%
+[15:47:10] [Server thread/INFO]: Time elapsed: 11507 ms
+[15:47:10] [Server thread/INFO]: Done (13.325s)! For help, type "help"
+[15:47:10] [Thread-10/INFO]: Loading BlueMap...
+[15:47:10] [Server thread/INFO]: Getting variables values from the data file...
+[15:47:10] [Server thread/ERROR]: There was an error while reading on the file
+[15:47:10] [Server thread/INFO]: [STDERR]: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT at line 1 column 2 path $
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at com.google.gson.Gson.fromJson(Gson.java:975)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at com.google.gson.Gson.fromJson(Gson.java:928)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at com.google.gson.Gson.fromJson(Gson.java:877)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at me.emafire003.dev.coloredglowlib.util.DataSaver.getDefaultColor(DataSaver.java:190)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at me.emafire003.dev.coloredglowlib.ColoredGlowLib.getValuesFromFile(ColoredGlowLib.java:186)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at me.emafire003.dev.coloredglowlib.ColoredGlowLib.lambda$new$1(ColoredGlowLib.java:56)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$2(ServerLifecycleEvents.java:49)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.handler$bkh000$afterSetupServer(MinecraftServer.java:5801)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:644)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[15:47:10] [Server thread/INFO]: [STDERR]: Caused by: java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT at line 1 column 2 path $
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at com.google.gson.stream.JsonReader.nextString(JsonReader.java:824)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at com.google.gson.internal.bind.TypeAdapters$15.read(TypeAdapters.java:380)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at com.google.gson.internal.bind.TypeAdapters$15.read(TypeAdapters.java:368)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	at com.google.gson.Gson.fromJson(Gson.java:963)
+[15:47:10] [Server thread/INFO]: [STDERR]: 	... 10 more
+[15:47:10] [Server thread/INFO]: Done!
+[15:47:10] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[15:47:10] [Server thread/INFO]: All 4 have been set properly
+[15:47:10] [Server thread/INFO]: All 4 have been reloaded properly
+[15:47:10] [Server thread/INFO]: All 65 have been set properly
+[15:47:10] [Server thread/INFO]: All 65 have been reloaded properly
+[15:47:10] [Thread-10/INFO]: Loading resources...
+[15:47:12] [Thread-10/INFO]: Loading textures...
+[15:47:16] [Thread-10/INFO]: Baking resources...
+[15:47:16] [Thread-10/INFO]: Resources loaded.
+[15:47:17] [Thread-10/INFO]: Initializing Storage: 'file' (Type: FILE)
+[15:47:17] [Thread-14/INFO]: WebServer bound to: 0.0.0.0/0.0.0.0:8100
+[15:47:17] [Thread-14/INFO]: WebServer started.
+[15:47:17] [Thread-10/INFO]: BlueMap loaded!
+[15:47:47] [Server thread/INFO]: [Chunky] Task started in minecraft:overworld for the square region centered at 0, 0 with radius 500.
+[15:47:47] [Chunky-minecraft:overworld Thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 442 chunks (10.46%), ETA: 0:00:01, Rate: 3623.0 cps, Current: -11, -10
+[15:47:53] [Server thread/INFO]: Incorrect argument for command
+[15:47:53] [Server thread/INFO]: bluemap render<--[HERE]
+[15:47:56] [Server thread/INFO]: BlueMap - Status:
+[15:47:56] [Server thread/INFO]:  Render-Threads are running!
+[15:47:56] [Server thread/INFO]:  Queued Tasks (4):
+[15:47:56] [Server thread/INFO]:   [8688] Update region (-1, 0) for map 'overworld'
+[15:47:56] [Server thread/INFO]:    Progress: 55.36%
+[15:47:56] [Server thread/INFO]:    ETA: 00:00:04
+[15:47:56] [Server thread/INFO]:   [1ed9] Update region (0, -1) for map 'overworld'
+[15:47:56] [Server thread/INFO]:   [7cac] Update region (0, 0) for map 'overworld'
+[15:47:56] [Server thread/INFO]:   [aba1] Update region (13558, 13558) for map 'overworld'
+[15:47:56] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 485 chunks (11.48%), ETA: 0:01:11, Rate: 52.4 cps, Current: 11, 10
+[15:47:58] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 491 chunks (11.62%), ETA: 0:01:20, Rate: 46.5 cps, Current: 11, 4
+[15:47:59] [Server thread/INFO]: BlueMap - Status:
+[15:47:59] [Server thread/INFO]:  Render-Threads are running!
+[15:47:59] [Server thread/INFO]:  Queued Tasks (4):
+[15:47:59] [Server thread/INFO]:   [8688] Update region (-1, 0) for map 'overworld'
+[15:47:59] [Server thread/INFO]:    Progress: 83.93%
+[15:47:59] [Server thread/INFO]:    ETA: 00:00:01
+[15:47:59] [Server thread/INFO]:   [1ed9] Update region (0, -1) for map 'overworld'
+[15:47:59] [Server thread/INFO]:   [7cac] Update region (0, 0) for map 'overworld'
+[15:47:59] [Server thread/INFO]:   [aba1] Update region (13558, 13558) for map 'overworld'
+[15:47:59] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 494 chunks (11.69%), ETA: 0:16:27, Rate: 3.8 cps, Current: 11, 1
+[15:48:00] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 502 chunks (11.88%), ETA: 0:13:30, Rate: 4.6 cps, Current: 11, -7
+[15:48:02] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 506 chunks (11.98%), ETA: 0:16:12, Rate: 3.8 cps, Current: 11, -11
+[15:48:03] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 511 chunks (12.09%), ETA: 0:15:36, Rate: 4.0 cps, Current: 6, -11
+[15:48:04] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 518 chunks (12.26%), ETA: 0:14:15, Rate: 4.3 cps, Current: -1, -11
+[15:48:05] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 528 chunks (12.50%), ETA: 0:12:32, Rate: 4.9 cps, Current: -11, -11
+[15:48:07] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 579 chunks (13.70%), ETA: 0:05:21, Rate: 11.3 cps, Current: 12, 7
+[15:48:08] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 587 chunks (13.89%), ETA: 0:05:38, Rate: 10.8 cps, Current: 12, -1
+[15:48:08] [Server thread/INFO]: BlueMap - Status:
+[15:48:08] [Server thread/INFO]:  Render-Threads are running!
+[15:48:08] [Server thread/INFO]:  Queued Tasks (2):
+[15:48:08] [Server thread/INFO]:   [7cac] Update region (0, 0) for map 'overworld'
+[15:48:08] [Server thread/INFO]:    Progress: 8.93%
+[15:48:08] [Server thread/INFO]:    ETA: 00:00:01
+[15:48:08] [Server thread/INFO]:   [aba1] Update region (13558, 13558) for map 'overworld'
+[15:48:14] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:48:14] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:48:14] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 598 chunks (14.15%), ETA: 0:23:45, Rate: 2.5 cps, Current: 12, -12
+[15:48:14] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:48:14] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:48:15] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:48:15] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:48:15] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:48:15] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 606 chunks (14.34%), ETA: 0:19:07, Rate: 3.2 cps, Current: 5, -12
+[15:48:17] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 615 chunks (14.56%), ETA: 0:08:08, Rate: 7.4 cps, Current: -5, -12
+[15:48:19] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 626 chunks (14.82%), ETA: 0:09:20, Rate: 6.4 cps, Current: 13, 12
+[15:48:20] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 631 chunks (14.93%), ETA: 0:09:55, Rate: 6.0 cps, Current: 13, 7
+[15:48:21] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 638 chunks (15.10%), ETA: 0:09:46, Rate: 6.1 cps, Current: 13, 0
+[15:48:22] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 644 chunks (15.24%), ETA: 0:09:57, Rate: 6.0 cps, Current: 13, -6
+[15:48:25] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 651 chunks (15.41%), ETA: 0:11:37, Rate: 5.1 cps, Current: 13, -13
+[15:48:26] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:48:26] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:48:26] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 657 chunks (15.55%), ETA: 0:13:00, Rate: 4.6 cps, Current: 7, -13
+[15:48:28] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 665 chunks (15.74%), ETA: 0:12:49, Rate: 4.6 cps, Current: -1, -13
+[15:48:29] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 670 chunks (15.86%), ETA: 0:13:09, Rate: 4.5 cps, Current: -6, -13
+[15:48:32] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 677 chunks (16.02%), ETA: 0:17:58, Rate: 3.3 cps, Current: -13, -13
+[15:48:34] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 682 chunks (16.14%), ETA: 0:17:37, Rate: 3.4 cps, Current: -13, -8
+[15:48:35] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 688 chunks (16.28%), ETA: 0:15:29, Rate: 3.8 cps, Current: -13, -2
+[15:48:36] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 693 chunks (16.40%), ETA: 0:15:17, Rate: 3.8 cps, Current: -13, 3
+[15:48:38] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 703 chunks (16.64%), ETA: 0:17:19, Rate: 3.4 cps, Current: -13, 13
+[15:48:40] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 710 chunks (16.80%), ETA: 0:15:55, Rate: 3.7 cps, Current: -6, 13
+[15:48:41] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 719 chunks (17.02%), ETA: 0:11:41, Rate: 5.0 cps, Current: 3, 13
+[15:48:42] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 726 chunks (17.18%), ETA: 0:11:12, Rate: 5.2 cps, Current: 10, 13
+[15:48:43] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 734 chunks (17.37%), ETA: 0:10:35, Rate: 5.5 cps, Current: 14, 9
+[15:48:44] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 749 chunks (17.73%), ETA: 0:08:58, Rate: 6.5 cps, Current: 14, -6
+[15:48:45] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 760 chunks (17.99%), ETA: 0:07:45, Rate: 7.4 cps, Current: 11, -14
+[15:48:46] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 777 chunks (18.39%), ETA: 0:06:55, Rate: 8.3 cps, Current: -6, -14
+[15:48:47] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 786 chunks (18.60%), ETA: 0:06:05, Rate: 9.4 cps, Current: -14, -14
+[15:48:49] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 795 chunks (18.82%), ETA: 0:06:25, Rate: 8.9 cps, Current: -14, -4
+[15:48:50] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 804 chunks (19.03%), ETA: 0:06:09, Rate: 9.3 cps, Current: -14, 5
+[15:48:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 813 chunks (19.24%), ETA: 0:06:14, Rate: 9.1 cps, Current: -14, 14
+[15:48:52] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 828 chunks (19.60%), ETA: 0:05:30, Rate: 10.3 cps, Current: 1, 14
