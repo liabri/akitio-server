@@ -39,4 +39,5 @@ Todo: Add git module link to Swejqa in client/resourcepacks
 * LevelZ vs PlayerEx ;
 * MVS structures ? ;
 * ElytraSlot vs ElytraQuickSwitch ;
+* AdventureZ ? ;
 * Create mod.
