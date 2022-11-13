@@ -34,8 +34,8 @@
     "flammable_cobweb": true
   },
   "item_interaction": {
-    "pickaxe_cracking": true,
-    "pickaxe_cracking_shift": false,
+    "pickaxe_cracking": false,
+    "pickaxe_cracking_shift": true,
     "brick_breaking": true,
     "piston_sliming": true,
     "soil_shearing": true,
