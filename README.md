@@ -29,6 +29,5 @@ Region which led the world into the industrial revolution with the addition of t
 * LevelZ vs PlayerEx ;
 * MVS structures ? ;
 * ElytraSlot vs ElytraQuickSwitch ;
-* AdventureZ ? ;
 * Lakeside datapack ;
 * Create mod.
