@@ -28,7 +28,6 @@ Region which led the world into the industrial revolution with the addition of t
 * Miskatonic Mysteries ? ;
 * LevelZ vs PlayerEx ;
 * MVS structures ? ;
-* ElytraSlot vs ElytraQuickSwitch ;
 * Lakeside datapack ;
 * GateOfBabylon vs MedievalWeapons ;
 * Create mod.
