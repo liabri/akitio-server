@@ -26,6 +26,7 @@ Region which led the world into the industrial revolution with the addition of t
 * Find an origins mod addon (libra, bucolic, mythology origins, pellos MLOO) ;
 * Companion Bats ? ;
 * Miskatonic Mysteries ? ;
+* AdventureZ vs SoulLike Weapons (they both add cool mobs) vs None ;
 * LevelZ vs PlayerEx ;
 * MVS structures ? ;
 * Lakeside datapack ;
