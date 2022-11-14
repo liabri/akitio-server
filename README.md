@@ -23,7 +23,7 @@ Region which led the world into the industrial revolution with the addition of t
 * Configure « When Dungeons Arise » ;
 * Configure Immersive Weathering ;
 * Figure out what to do with Cinderscapes (cinderscape rose quartz -> create rose quartz) (sulphur quartz???) ;
-* Find an origins mod addon (libra or bucolic) ;
+* Find an origins mod addon (libra, bucolic, mythology origins, pellos MLOO) ;
 * Companion Bats ? ;
 * Miskatonic Mysteries ? ;
 * LevelZ vs PlayerEx ;
