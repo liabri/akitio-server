@@ -29,7 +29,7 @@ Region which led the world into the industrial revolution with the addition of t
 * AdventureZ vs SoulLike Weapons (they both add cool mobs) vs None ;
 * LevelZ vs PlayerEx ;
 * MVS structures ? ;
-* Lakeside datapack ;
+* Lakeside datapack, eventually make lake biomes assimilate to parent biome ;
 * Make sure datapacks are in server ;
 * GateOfBabylon vs MedievalWeapons ;
 * Create mod.
