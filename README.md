@@ -30,5 +30,6 @@ Region which led the world into the industrial revolution with the addition of t
 * LevelZ vs PlayerEx ;
 * MVS structures ? ;
 * Lakeside datapack ;
+* Make sure datapacks are in server ;
 * GateOfBabylon vs MedievalWeapons ;
 * Create mod.
