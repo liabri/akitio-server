@@ -27,14 +27,13 @@ Todo: Add git module link to Swejqa in client/resourcepacks
 
 * Configure « When Dungeons Arise » ;
 * Configure Immersive Weathering ;
-* Figure out what to do with Cinderscapes ;
+* Figure out what to do with Cinderscapes (cinderscape rose quartz -> create rose quartz) (sulphur quartz???) ;
 * Find an origins mod addon (such as libra, origins-plus-plus, toomanyorigins, bucolic or voyager) ;
 * Companion Bats ? ;
 * Miskatonic Mysteries ? ;
-* Alloygery ? ;
-* ExpertArmour/Weapons ? ;
 * LevelZ vs PlayerEx ;
 * MVS structures ? ;
 * ElytraSlot vs ElytraQuickSwitch ;
 * AdventureZ ? ;
+* Lakeside datapack ;
 * Create mod.
