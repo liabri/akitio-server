@@ -18,11 +18,6 @@ Contracted form of Dewavenorker, this is the commune, villages inside
 
 Region which led the world into the industrial revolution with the addition of the « Create » mod. Particularly the city of XXX. Cities in Kīro such as Teichi and Dew'venork quickly caught up.
 
-
-Todo: Add git module link to Swejqa in client/resourcepacks
-
-
-
 # TODO
 
 * Configure « When Dungeons Arise » ;
