@@ -42,4 +42,5 @@ Region which led the world into the industrial revolution with the addition of t
 * Perit loottables & some recipes ;
 * Replace ExtraRecord with [Etched](https://github.com/MoonflowerTeam/etched)
 * Fix ItemSwapper ;
+* Configure git FastBack ;
 * Gamerule « playersSleepingPercentage ».
