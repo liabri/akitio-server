@@ -44,4 +44,5 @@ Region which led the world into the industrial revolution with the addition of t
 * Replace QuickElytra with [ElytraUtilities](https://www.curseforge.com/minecraft/mc-mods/elytra-utilities-fabric) ;
 * Update IntoTheOmega ;
 * Fix BabyPowder ;
+* Fix ItemSwapper ;
 * Gamerule « playersSleepingPercentage ».
