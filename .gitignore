@@ -18,4 +18,5 @@ server/moddata/
 server/patchouli_books/
 
 server/bluemap
+!/server/world/datapacks
 server/world
