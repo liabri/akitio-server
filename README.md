@@ -25,8 +25,6 @@ Region which led the world into the industrial revolution with the addition of t
 ## Before Updating
 
 * Make sure all structure mods works nicely together (ie. avoid **too many** structures) ;
-* Configure « When Dungeons Arise » ;
-* MVS structures ? ;
 * [WabiSabi Structure](https://www.curseforge.com/minecraft/mc-mods/wabi-sabi-structures-fabric/screenshots) ? ;
 * Configure Immersive Weathering ;
 * LevelZ vs PlayerEx ;
@@ -42,5 +40,6 @@ Region which led the world into the industrial revolution with the addition of t
 * Update IntoTheOmega ;
 * Fix BabyPowder ;
 * Perit loottables & some recipes ;
+* Replace ExtraRecord with [Etched](https://github.com/MoonflowerTeam/etched)
 * Fix ItemSwapper ;
 * Gamerule « playersSleepingPercentage ».
