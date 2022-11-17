@@ -39,7 +39,6 @@ Region which led the world into the industrial revolution with the addition of t
 
 ## Eventually
 
-* Combine GateOfBabylon & MedievalWeapons or find a solution to not have both mods ;
 * Assimilate lakeside biomes into surrounding biomes ;
 * Get back Cinderscapes' sulphur quartz — it's quite a nice block ;
 * Replace QuickElytra with [ElytraUtilities](https://www.curseforge.com/minecraft/mc-mods/elytra-utilities-fabric) ;
