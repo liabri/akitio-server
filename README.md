@@ -25,7 +25,6 @@ Region which led the world into the industrial revolution with the addition of t
 ## Before Updating
 
 * Make sure all structure mods works nicely together (ie. avoid **too many** structures) ;
-* [WabiSabi Structure](https://www.curseforge.com/minecraft/mc-mods/wabi-sabi-structures-fabric/screenshots) ? ;
 * Configure Immersive Weathering ;
 * LevelZ vs PlayerEx ;
 * Lakeside datapack ;
@@ -36,7 +35,6 @@ Region which led the world into the industrial revolution with the addition of t
 ## Eventually
 
 * Assimilate lakeside biomes into surrounding biomes ;
-* Get back Cinderscapes' sulphur quartz — it's quite a nice block ;
 * Replace QuickElytra with [ElytraUtilities](https://www.curseforge.com/minecraft/mc-mods/elytra-utilities-fabric) ;
 * Update IntoTheOmega ;
 * Fix BabyPowder ;
