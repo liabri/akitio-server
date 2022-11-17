@@ -18,5 +18,5 @@ server/moddata/
 server/patchouli_books/
 
 server/bluemap
+/server/world/*
 !/server/world/datapacks
-server/world
