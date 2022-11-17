@@ -23,6 +23,7 @@ Region which led the world into the industrial revolution with the addition of t
 * Make sure all structure mods works nicely together (ie. avoid **too many** structures) ;
 * Configure « When Dungeons Arise » ;
 * MVS structures ? ;
+* [WabiSabi Structure](https://www.curseforge.com/minecraft/mc-mods/wabi-sabi-structures-fabric/screenshots) ? ;
 * Configure Immersive Weathering ;
 * Cinderscapes sulphur quartz? ;
 * Find an origins mod addon (libra, bucolic, mythology origins, pellos MLOO) ;
