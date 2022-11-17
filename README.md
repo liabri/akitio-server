@@ -43,4 +43,5 @@ Region which led the world into the industrial revolution with the addition of t
 * Get back Cinderscapes' sulphur quartz — it's quite a nice block ;
 * Replace QuickElytra with [ElytraUtilities](https://www.curseforge.com/minecraft/mc-mods/elytra-utilities-fabric) ;
 * Update IntoTheOmega ;
+* Fix BabyPowder ;
 * Gamerule « playersSleepingPercentage ».
