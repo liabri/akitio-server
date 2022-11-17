@@ -18,16 +18,24 @@ Region which led the world into the industrial revolution with the addition of t
 
 # TODO
 
+## Before Updating
+
 * Make sure all structure mods works nicely together (ie. avoid **too many** structures) ;
 * Configure « When Dungeons Arise » ;
+* MVS structures ? ;
 * Configure Immersive Weathering ;
 * Figure out what to do with Cinderscapes (cinderscape rose quartz -> create rose quartz) (sulphur quartz???) ;
 * Find an origins mod addon (libra, bucolic, mythology origins, pellos MLOO) ;
 * Companion Bats ? ;
 * Miskatonic Mysteries ? ;
 * LevelZ vs PlayerEx ;
-* MVS structures ? ;
-* Lakeside datapack, eventually make lake biomes assimilate to parent biome ;
+* Perit loottables & some recipes ;
+* Lakeside datapack ;
 * Make sure datapacks are in server ;
-* GateOfBabylon vs MedievalWeapons ;
 * Create mod.
+
+
+## Eventually
+
+* Combine GateOfBabylon & MedievalWeapons or find a solution to not have both mods ;
+* Assimilate lakeside biomes into surrounding biomes ;
