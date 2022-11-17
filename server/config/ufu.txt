@@ -1,6 +1,9 @@
 cinderscapes:rose_quartz_block -> create:rose_quartz_block
 cinderscapes:rose_quartz_stairs -> create:rose_quartz_stairs
 cinderscapes:rose_quartz_slab -> create:rose_quartz_slab
+cinderscapes:sulphur_quartz_block -> minecraft:quartz_block
+cinderscapes:sulphur_quartz_stairs -> minecraft:quartz_block
+cinderscapes:sulphur_quartz_slab -> minecraft:quartz_block
 fantasycraft:bronze_ore -> minecraft:stone
 fantasycraft:bronze_block -> minecraft:diamond_block
 fantasycraft:dwarven_blast_furnace -> minecraft:blast_furnace
