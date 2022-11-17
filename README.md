@@ -27,7 +27,6 @@ Region which led the world into the industrial revolution with the addition of t
 * Configure Immersive Weathering ;
 * Find an origins mod addon (libra, bucolic, mythology origins, pellos MLOO) ;
 * Companion Bats ? ;
-* Miskatonic Mysteries ? ;
 * LevelZ vs PlayerEx ;
 * Perit loottables & some recipes ;
 * Lakeside datapack ;
