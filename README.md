@@ -29,11 +29,8 @@ Region which led the world into the industrial revolution with the addition of t
 * MVS structures ? ;
 * [WabiSabi Structure](https://www.curseforge.com/minecraft/mc-mods/wabi-sabi-structures-fabric/screenshots) ? ;
 * Configure Immersive Weathering ;
-* Companion Bats ? ;
 * LevelZ vs PlayerEx ;
-* Perit loottables & some recipes ;
 * Lakeside datapack ;
-* Make sure datapacks are in server ;
 * Create mod.
 
 
@@ -44,5 +41,6 @@ Region which led the world into the industrial revolution with the addition of t
 * Replace QuickElytra with [ElytraUtilities](https://www.curseforge.com/minecraft/mc-mods/elytra-utilities-fabric) ;
 * Update IntoTheOmega ;
 * Fix BabyPowder ;
+* Perit loottables & some recipes ;
 * Fix ItemSwapper ;
 * Gamerule « playersSleepingPercentage ».
