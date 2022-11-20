@@ -26,7 +26,6 @@ Region which led the world into the industrial revolution with the addition of t
 
 * Make sure all structure mods works nicely together (ie. avoid **too many** structures) ;
 * Configure Immersive Weathering ;
-* LevelZ vs PlayerEx ;
 * RepurposedStructures ?.
 
 ## Eventually
@@ -39,4 +38,5 @@ Region which led the world into the industrial revolution with the addition of t
 * Replace ExtraRecord with [Etched](https://github.com/MoonflowerTeam/etched)
 * Fix ItemSwapper ;
 * Configure git FastBack ;
-* Gamerule « playersSleepingPercentage ».
+* Gamerule « playersSleepingPercentage » ;
+* Think about LevelZ-like functionality of preventing say brewing strength potions if alchemy level is too low.

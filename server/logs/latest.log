@@ -889,3 +889,35 @@ The following biome entries were ignored due to not being in this world's biome 
 [17:32:56] [Thread-11/INFO]: WebServer started.
 [17:32:56] [Thread-7/INFO]: BlueMap loaded!
 [17:33:15] [Server thread/INFO]: Could not find a biome of type "lakeside:warm_lake" within reasonable distance
+[18:01:04] [Server thread/INFO]: Stopping the server
+[18:01:04] [Server thread/INFO]: BlueMap unloaded!
+[18:01:04] [Thread-11/INFO]: WebServer closed.
+[18:01:04] [Server thread/INFO]: Saving the colored glow data to the file...
+[18:01:04] [Server thread/INFO]: Saved!
+[18:01:04] [Server thread/INFO]: Stopping server
+[18:01:04] [Server thread/INFO]: Saving players
+[18:01:04] [Server thread/INFO]: Saving worlds
+[18:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:01:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:01:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:01:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:01:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:01:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:01:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:01:11] [Server thread/INFO]: closing rrp minecraft:extrarecords
+[18:01:11] [Server thread/ERROR]: Shutdown action failed.
+org.eclipse.jgit.errors.RepositoryNotFoundException: repository not found: /home/liabri/loghob/minecraft/akitio/server/world
+	at org.eclipse.jgit.lib.BaseRepositoryBuilder.build(BaseRepositoryBuilder.java:627) ~[org_eclipse_jgit_org_eclipse_jgi206071550-r-f0955f5ce674565a.jar:?]
+	at org.eclipse.jgit.api.Git.open(Git.java:93) ~[org_eclipse_jgit_org_eclipse_jgi206071550-r-f0955f5ce674565a.jar:?]
+	at org.eclipse.jgit.api.Git.open(Git.java:73) ~[org_eclipse_jgit_org_eclipse_jgi206071550-r-f0955f5ce674565a.jar:?]
+	at net.pcal.fastback.LifecycleUtils.onWorldStop(LifecycleUtils.java:84) ~[fastback-0.7.3+1.19.2.jar:?]
+	at net.pcal.fastback.fabric.FabricServerInitializer.lambda$onInitializeServer$1(FabricServerInitializer.java:46) ~[fastback-0.7.3+1.19.2.jar:?]
+	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$6(ServerLifecycleEvents.java:76) ~[fabric-lifecycle-events-v1-2.2.0+33ffe9ec90-931073eb9cb408c3.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$bpb000$afterShutdownServer(MinecraftServer.java:6311) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:609) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3782(class_3176.java:547) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[18:01:11] [Server thread/INFO]: onWorldStop complete
+[18:01:11] [Server thread/INFO]: onTermination complete
