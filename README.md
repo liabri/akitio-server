@@ -25,6 +25,8 @@ Region which led the world into the industrial revolution with the addition of t
 ## Before Updating
 
 * Make sure all structure mods works nicely together (ie. avoid **too many** structures) ;
+* Gobber2 ? ;
+* MariumsSoulsWeaponry ?.
 
 ## Eventually
 
