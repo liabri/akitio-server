@@ -25,7 +25,6 @@ Region which led the world into the industrial revolution with the addition of t
 ## Before Updating
 
 * Make sure all structure mods works nicely together (ie. avoid **too many** structures) ;
-* Configure Immersive Weathering.
 
 ## Eventually
 

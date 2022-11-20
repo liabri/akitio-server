@@ -1,8 +1,8 @@
 {
   "general": {
-    "block_growths": true,
+    "block_growths": false,
     "block_growth_blacklist": [],
-    "creative_tab": false,
+    "creative_tab": true,
     "drop_in_creative": false,
     "debug_save_dynamic_pack": false
   },
@@ -35,8 +35,8 @@
   },
   "item_interaction": {
     "pickaxe_cracking": false,
-    "pickaxe_cracking_shift": true,
-    "brick_breaking": true,
+    "pickaxe_cracking_shift": false,
+    "brick_breaking": false,
     "piston_sliming": true,
     "soil_shearing": true,
     "grass_flinting": true,
@@ -82,7 +82,7 @@
     "fulgurite_chance": 0.4
   },
   "rusting": {
-    "rusting": true,
+    "rusting": false,
     "rusting_influence_radius": 4,
     "rusting_rate": 0.06,
     "rust_streaking": true
