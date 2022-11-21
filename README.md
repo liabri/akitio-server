@@ -26,6 +26,7 @@ Region which led the world into the industrial revolution with the addition of t
 
 * Configure WhenDungeonsArise (some dungeons suck : illager_windmill) ;
 * Chunky crashing due to `minecraft:shipwreck`, possibly due to the `better-shipwrecks` datapack ? ;
+* perit rose_quartz_stairs/slab for create extensions.
 * SimplySwords — (+MedievalWeapons/MariumsSoulsWeaponry ?).
 
 ## Eventually
@@ -34,9 +35,9 @@ Region which led the world into the industrial revolution with the addition of t
 * Replace QuickElytra with [ElytraUtilities](https://www.curseforge.com/minecraft/mc-mods/elytra-utilities-fabric) ;
 * Update IntoTheOmega ;
 * Fix BabyPowder ;
-* Perit loottables & some recipes ;
-* Replace ExtraRecord with [Etched](https://github.com/MoonflowerTeam/etched)
 * Fix ItemSwapper ;
+* Perit loottables & some recipes (such as terracotta) ;
+* Replace ExtraRecords with [Etched](https://github.com/MoonflowerTeam/etched)
 * Make sure gobber is balanced ;
 * Configure git FastBack ;
 * Gamerule « playersSleepingPercentage » ;
