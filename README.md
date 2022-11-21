@@ -24,10 +24,7 @@ Region which led the world into the industrial revolution with the addition of t
 
 ## Before Updating
 
-* Configure WhenDungeonsArise (some dungeons suck : illager_windmill) ;
 * Chunky crashing due to `minecraft:shipwreck`, possibly due to the `better-shipwrecks` datapack ? ;
-* perit rose_quartz_stairs/slab for create extensions.
-* SimplySwords — (+MedievalWeapons/MariumsSoulsWeaponry ?).
 
 ## Eventually
 
