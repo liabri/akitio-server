@@ -1,6 +1,11 @@
-cinderscapes:rose_quartz_block -> perit:polished_rose_quartz_block
+cinderscapes:rose_quartz_block -> perit:polished_rose_quartz
 cinderscapes:rose_quartz_stairs -> perit:polished_rose_quartz_stairs
 cinderscapes:rose_quartz_slab -> perit:polished_rose_quartz_slab
+cinderscapes:rose_quartz_block -> perit:rose_quartz_bricks
+cinderscapes:rose_quartz_stairs -> perit:rose_quartz_brick_stairs
+cinderscapes:rose_quartz_slab -> perit:rose_quartz_brick_slab
+cinderscapes:chiseled_rose_quartz -> perit:chiseled_rose_quartz
+cinderscapes:rose_quartz_pillar -> perit:rose_quartz_pillar
 cinderscapes:sulphur_quartz_block -> create:polished_cut_scoria
 cinderscapes:sulphur_quartz_stairs -> create:polished_cut_scoria_stairs
 cinderscapes:sulphur_quartz_slab -> create:polished_cut_scoria_slab
