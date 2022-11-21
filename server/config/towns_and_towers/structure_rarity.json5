@@ -17,9 +17,9 @@ GitHub Repository: [NEED TO MAKE ONE]
 {
 	// Here you can find all villages.
 	"villages": {
-		// DEFAULT 48
+		// DEFAULT 64
 		"spacing": 48,
-		// DEFAULT 24
+		// DEFAULT 42
 		"separation": 24,
 		"salt": 10587309
 	},
