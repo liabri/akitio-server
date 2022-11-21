@@ -50,7 +50,7 @@
 	   Medallion Settings
 	   ***********************
 	*/
-	"medallionExpXPBoost": true,
+	"medallionExpXPBoost": false,
 	"medallionLesserHealingAmount": 1,
 	"medallionHealingAmount": 2,
 	"medallionGreaterHealingAmount": 3,
@@ -237,12 +237,12 @@
 	   
 	   ******************************
 	   Bow Zoom Multiplier
-	   - vanilla bow value = .15F
-	   - pretty good value = .45F
-	   - awesome value = .75F
+	   - vanilla bow value = 0F
+	   - pretty good value = 0F
+	   - awesome value = 0F
 	   ******************************
 	*/
-	"bowZoomMultiplier": 0.44999998807907104,
+	"bowZoomMultiplier": 1,
 	/* 
 	   
 	   
@@ -342,7 +342,7 @@
 	   Gobber End Tool Material Stats
 	   ******************************
 	*/
-	"unbreakableEndTools": true,
+	"unbreakableEndTools": false,
 	"gobberEndDurability": 8000,
 	"gobberEndMiningSpeed": 14.0,
 	"gobberEndAttackDamage": 9.0,
@@ -415,7 +415,7 @@
 	   Gobber Armor Features
 	   ***********************
 	*/
-	"enableGobberBreathing": false,
+	"enableGobberBreathing": true,
 	"enableGobberHealthPerks": false,
 	"healingPointsGobberArmor": 2,
 	/* 
@@ -424,7 +424,7 @@
 	   Nether Armor Features
 	   ***********************
 	*/
-	"enableNetherFirePerk": false,
+	"enableNetherFirePerk": true,
 	"enableNetherHealthPerks": false,
 	"healingPointsNetherArmor": 2,
 	/* 
@@ -433,27 +433,27 @@
 	   End Armor Features
 	   ***********************
 	*/
-	"unbreakableEndArmor": true,
-	"enableEndBreathing": false,
-	"enableEndFirePerk": false,
+	"unbreakableEndArmor": false,
+	"enableEndBreathing": true,
+	"enableEndFirePerk": true,
 	"enableEndHealthPerks": false,
 	"healingPointsEndArmor": 3,
 	"enableEndNoFallDamage": true,
-	"enableGlidingEndArmor": true,
+	"enableGlidingEndArmor": false,
 	/* 
 	   
 	   ***********************
 	   Dragon Armor Features
 	   ***********************
 	*/
-	"unbreakableDragonArmor": true,
+	"unbreakableDragonArmor": false,
 	"enableDragonBreathing": true,
 	"enableDragonFirePerk": true,
 	"enableDragonHealthPerks": false,
 	"healingPointsDragonArmor": 4,
 	"enableDragonCuring": true,
 	"enableDragonNoFallDamage": true,
-	"enableDragonFlying": true,
+	"enableDragonFlying": false,
 	/* 
 	   
 	   ***********************
@@ -474,8 +474,8 @@
 	   Item does NOT have a standard recipe
 	   ***********************
 	*/
-	"specialItemMin": 20000,
-	"specialItemMax": 75000,
+	"specialItemMin": 5000,
+	"specialItemMax": 20000,
 	"specialItemUsePlayerPos": false,
 	/* 
 	   

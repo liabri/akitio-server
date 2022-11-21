@@ -25,7 +25,7 @@ Region which led the world into the industrial revolution with the addition of t
 ## Before Updating
 
 * Make sure all structure mods works nicely together (ie. avoid **too many** structures) ;
-* Gobber2 ? ;
+* Chunky crashing due to `minecraft:shipwreck`, possibly due to the `better-shipwrecks` datapack ? ;
 * MariumsSoulsWeaponry ?.
 
 ## Eventually
@@ -37,6 +37,7 @@ Region which led the world into the industrial revolution with the addition of t
 * Perit loottables & some recipes ;
 * Replace ExtraRecord with [Etched](https://github.com/MoonflowerTeam/etched)
 * Fix ItemSwapper ;
+* Make sure gobber is balanced ;
 * Configure git FastBack ;
 * Gamerule « playersSleepingPercentage » ;
 * Think about LevelZ-like functionality of preventing say brewing strength potions if alchemy level is too low.
