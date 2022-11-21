@@ -24,7 +24,8 @@ Region which led the world into the industrial revolution with the addition of t
 
 ## Before Updating
 
-* keep `continents` even though rivers are ugly as fuck ? ;
+* CTOV spawn rate ;
+* keep `continents` even though rivers are ugly as fuck — solution is to make the continents bigger!!! ;
 * `better-shipwrecks` causing crashes.
 
 ## Eventually

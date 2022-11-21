@@ -237,12 +237,12 @@
 	   
 	   ******************************
 	   Bow Zoom Multiplier
-	   - vanilla bow value = 0F
-	   - pretty good value = 0F
-	   - awesome value = 0F
+	   - vanilla bow value = .15F
+	   - pretty good value = .45F
+	   - awesome value = .75F
 	   ******************************
 	*/
-	"bowZoomMultiplier": 1,
+	"bowZoomMultiplier": 1.0,
 	/* 
 	   
 	   
