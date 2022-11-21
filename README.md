@@ -24,7 +24,8 @@ Region which led the world into the industrial revolution with the addition of t
 
 ## Before Updating
 
-* Chunky crashing due to `minecraft:shipwreck`, possibly due to the `better-shipwrecks` datapack ? ;
+* keep `continents` even though rivers are ugly as fuck ? ;
+* `better-shipwrecks` causing crashes.
 
 ## Eventually
 
