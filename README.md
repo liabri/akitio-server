@@ -24,7 +24,7 @@ Region which led the world into the industrial revolution with the addition of t
 
 ## Before Updating
 
-* keep `continents` even though rivers are ugly as fuck — solution is to make the continents bigger!!! ;
+* make `continents`' continents bigger since vanilla rivers are so widespread, if no success just remove (sadly), possibly by adding tectonics.
 
 ## Eventually
 
@@ -38,4 +38,5 @@ Region which led the world into the industrial revolution with the addition of t
 * Make sure gobber is balanced ;
 * Configure git FastBack ;
 * Gamerule « playersSleepingPercentage » ;
+* Setup ferium for easier updating (problematic mods: unstructured ; extrarecords ; creatures from the snow ; dungeon now loading ; perit. -forgeconfigapiport & player-animation-lib ? +owo-lib & arrp ?) ;
 * Think about LevelZ-like functionality of preventing say brewing strength potions if alchemy level is too low.
