@@ -38,5 +38,5 @@ Region which led the world into the industrial revolution with the addition of t
 * Make sure gobber is balanced ;
 * Configure git FastBack ;
 * Gamerule « playersSleepingPercentage » ;
-* Setup ferium for easier updating (problematic mods: unstructured  ; creatures from the snow. -forgeconfigapiport & player-animation-lib ? +owo-lib & arrp ?) ;
+* Setup ferium for easier updating. Problematic mods: unstructured (server)  ; creatures from the snow (server & client) ;
 * Think about LevelZ-like functionality of preventing say brewing strength potions if alchemy level is too low.

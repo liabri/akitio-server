@@ -1,0 +1,1215 @@
+{
+  "active_profile": 0,
+  "active_modpack": 0,
+  "profiles": [
+    {
+      "name": "akitio-server",
+      "output_dir": "/home/liabri/minzel/akitio-server",
+      "game_version": "1.19.2",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "Amplified Nether",
+          "identifier": {
+            "CurseForgeProject": 552176
+          }
+        },
+        {
+          "name": "An Origins Addon - Apocalypse",
+          "identifier": {
+            "CurseForgeProject": 521235
+          }
+        },
+        {
+          "name": "An Origins Addon - Libra",
+          "identifier": {
+            "CurseForgeProject": 478492
+          }
+        },
+        {
+          "name": "Architectury API",
+          "identifier": {
+            "ModrinthProject": "lhGA9TYQ"
+          }
+        },
+        {
+          "name": "Artifacts (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 401236
+          }
+        },
+        {
+          "name": "AutoTag",
+          "identifier": {
+            "CurseForgeProject": 618433
+          }
+        },
+        {
+          "name": "BackSlot",
+          "identifier": {
+            "CurseForgeProject": 402739
+          }
+        },
+        {
+          "name": "bad packets",
+          "identifier": {
+            "CurseForgeProject": 615134
+          }
+        },
+        {
+          "name": "BCLib",
+          "identifier": {
+            "CurseForgeProject": 495191
+          }
+        },
+        {
+          "name": "Beacon Overhaul",
+          "identifier": {
+            "CurseForgeProject": 430382
+          }
+        },
+        {
+          "name": "BetterEnd",
+          "identifier": {
+            "CurseForgeProject": 413596
+          }
+        },
+        {
+          "name": "BetterNether",
+          "identifier": {
+            "CurseForgeProject": 311377
+          }
+        },
+        {
+          "name": "Biome Technologies™",
+          "identifier": {
+            "ModrinthProject": "XhDzIuvV"
+          }
+        },
+        {
+          "name": "BlueMap",
+          "identifier": {
+            "ModrinthProject": "swbUV1cr"
+          }
+        },
+        {
+          "name": "Bosses of Mass Destruction",
+          "identifier": {
+            "CurseForgeProject": 438365
+          }
+        },
+        {
+          "name": "Brazier",
+          "identifier": {
+            "ModrinthProject": "5okEW6TG"
+          }
+        },
+        {
+          "name": "Cardinal Components",
+          "identifier": {
+            "CurseForgeProject": 318449
+          }
+        },
+        {
+          "name": "Charm",
+          "identifier": {
+            "ModrinthProject": "pOQTcQmj"
+          }
+        },
+        {
+          "name": "Chunky (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 433175
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "ColoredGlow Lib",
+          "identifier": {
+            "ModrinthProject": "tLyToK0S"
+          }
+        },
+        {
+          "name": "Comforts (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 433539
+          }
+        },
+        {
+          "name": "Concurrent Chunk Management Engine (Fabric)",
+          "identifier": {
+            "ModrinthProject": "VSNURh3q"
+          }
+        },
+        {
+          "name": "Connectible Chains [Fabric]",
+          "identifier": {
+            "ModrinthProject": "ykSfIgTw"
+          }
+        },
+        {
+          "name": "Create Fabric",
+          "identifier": {
+            "ModrinthProject": "Xbc0uyRg"
+          }
+        },
+        {
+          "name": "Data Attributes",
+          "identifier": {
+            "CurseForgeProject": 514734
+          }
+        },
+        {
+          "name": "Eldritch Mobs",
+          "identifier": {
+            "ModrinthProject": "emXFPmJd"
+          }
+        },
+        {
+          "name": "Elytra Slot (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 397903
+          }
+        },
+        {
+          "name": "End Remastered [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 515523
+          }
+        },
+        {
+          "name": "Expanded Delight",
+          "identifier": {
+            "ModrinthProject": "e9V6wFcR"
+          }
+        },
+        {
+          "name": "Explorify",
+          "identifier": {
+            "ModrinthProject": "HSfsxuTo"
+          }
+        },
+        {
+          "name": "Extra Records",
+          "identifier": {
+            "CurseForgeProject": 458019
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "CurseForgeProject": 306612
+          }
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "identifier": {
+            "CurseForgeProject": 308769
+          }
+        },
+        {
+          "name": "Fabric Tailor",
+          "identifier": {
+            "ModrinthProject": "g8w1NapE"
+          }
+        },
+        {
+          "name": "Farmer's Delight [Fabric]",
+          "identifier": {
+            "ModrinthProject": "4EakbH8e"
+          }
+        },
+        {
+          "name": "Farmer's Knives [Fabric]",
+          "identifier": {
+            "ModrinthProject": "uc3VdfLM"
+          }
+        },
+        {
+          "name": "Fast Backups",
+          "identifier": {
+            "ModrinthProject": "ZHKrK8Rp"
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "GeckoLib",
+          "identifier": {
+            "CurseForgeProject": 388172
+          }
+        },
+        {
+          "name": "Go Fish",
+          "identifier": {
+            "CurseForgeProject": 431135
+          }
+        },
+        {
+          "name": "Gobber [FABRIC]",
+          "identifier": {
+            "CurseForgeProject": 427177
+          }
+        },
+        {
+          "name": "Immersive Weathering",
+          "identifier": {
+            "ModrinthProject": "jkskOO9i"
+          }
+        },
+        {
+          "name": "LightWithin",
+          "identifier": {
+            "ModrinthProject": "f8LsKKPu"
+          }
+        },
+        {
+          "name": "Literally Chunk Loader",
+          "identifier": {
+            "CurseForgeProject": 378183
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "Marium's Soulslike Weaponry",
+          "identifier": {
+            "CurseForgeProject": 632066
+          }
+        },
+        {
+          "name": "MC Dungeons Armors",
+          "identifier": {
+            "CurseForgeProject": 426206
+          }
+        },
+        {
+          "name": "MedievalWeapons",
+          "identifier": {
+            "CurseForgeProject": 411400
+          }
+        },
+        {
+          "name": "Miskatonic Mysteries",
+          "identifier": {
+            "CurseForgeProject": 473458
+          }
+        },
+        {
+          "name": "Moonlight Lib",
+          "identifier": {
+            "ModrinthProject": "twkfQtEc"
+          }
+        },
+        {
+          "name": "Nameplate",
+          "identifier": {
+            "CurseForgeProject": 551914
+          }
+        },
+        {
+          "name": "Naturalist",
+          "identifier": {
+            "CurseForgeProject": 627986
+          }
+        },
+        {
+          "name": "Nyf's Quivers",
+          "identifier": {
+            "CurseForgeProject": 482731
+          }
+        },
+        {
+          "name": "Oh The Biomes You'll Go Refabricated",
+          "identifier": {
+            "CurseForgeProject": 391378
+          }
+        },
+        {
+          "name": "Origins (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 391943
+          }
+        },
+        {
+          "name": "Origins: Classes",
+          "identifier": {
+            "CurseForgeProject": 401833
+          }
+        },
+        {
+          "name": "Patchouli (Fabric/Quilt)",
+          "identifier": {
+            "CurseForgeProject": 393236
+          }
+        },
+        {
+          "name": "Pehkui",
+          "identifier": {
+            "CurseForgeProject": 319596
+          }
+        },
+        {
+          "name": "perit",
+          "identifier": {
+            "GitHubRepository": [
+              "liabri",
+              "perit"
+            ]
+          },
+          "check_game_version": false,
+          "check_mod_loader": false
+        },
+        {
+          "name": "PlayerEx",
+          "identifier": {
+            "CurseForgeProject": 409221
+          }
+        },
+        {
+          "name": "RelicEx",
+          "identifier": {
+            "CurseForgeProject": 439281
+          }
+        },
+        {
+          "name": "RpgDifficulty",
+          "identifier": {
+            "CurseForgeProject": 480786
+          }
+        },
+        {
+          "name": "Scout",
+          "identifier": {
+            "CurseForgeProject": 631922
+          }
+        },
+        {
+          "name": "Simple Hats",
+          "identifier": {
+            "CurseForgeProject": 631990
+          }
+        },
+        {
+          "name": "Simply Houses",
+          "identifier": {
+            "CurseForgeProject": 630834
+          }
+        },
+        {
+          "name": "Spellbound Enchantments [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 434965
+          }
+        },
+        {
+          "name": "Starlight (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 521783
+          }
+        },
+        {
+          "name": "Supplementaries",
+          "identifier": {
+            "CurseForgeProject": 412082
+          }
+        },
+        {
+          "name": "TerraBlender (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 565956
+          }
+        },
+        {
+          "name": "Terralith",
+          "identifier": {
+            "CurseForgeProject": 513688
+          }
+        },
+        {
+          "name": "Terrestria",
+          "identifier": {
+            "CurseForgeProject": 323974
+          }
+        },
+        {
+          "name": "The Witcher - An Origins Addon",
+          "identifier": {
+            "CurseForgeProject": 678143
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "TieredZ",
+          "identifier": {
+            "CurseForgeProject": 615948
+          }
+        },
+        {
+          "name": "Tom's Simple Storage Mod (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 396826
+          }
+        },
+        {
+          "name": "Towns and Towers",
+          "identifier": {
+            "ModrinthProject": "DjLobEOy"
+          }
+        },
+        {
+          "name": "Traverse",
+          "identifier": {
+            "CurseForgeProject": 308777
+          }
+        },
+        {
+          "name": "Trinkets (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 341284
+          }
+        },
+        {
+          "name": "UpdateFixerUpper",
+          "identifier": {
+            "CurseForgeProject": 409010
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "VanitySlots",
+          "identifier": {
+            "CurseForgeProject": 570109
+          }
+        },
+        {
+          "name": "Victus - Custom Hearts",
+          "identifier": {
+            "CurseForgeProject": 534492
+          }
+        },
+        {
+          "name": "WorldEdit",
+          "identifier": {
+            "CurseForgeProject": 225608
+          }
+        },
+        {
+          "name": "YUNG's API (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 421649
+          }
+        },
+        {
+          "name": "YUNG's Better Desert Temples (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 631020
+          }
+        },
+        {
+          "name": "YUNG's Better Dungeons (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 525586
+          }
+        },
+        {
+          "name": "YUNG's Better Mineshafts (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 373591
+          }
+        },
+        {
+          "name": "YUNG's Better Ocean Monuments (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 689252
+          }
+        },
+        {
+          "name": "YUNG's Better Strongholds (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 480684
+          }
+        },
+        {
+          "name": "YUNG's Better Witch Huts (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 631403
+          }
+        },
+        {
+          "name": "YUNG's Extras (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 590993
+          }
+        }
+      ]
+    },
+    {
+      "name": "akitio-client",
+      "output_dir": "/home/liabri/minzel/akitio-client",
+      "game_version": "1.19.2",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "[Fabric] Extended Armor Bars Forked",
+          "identifier": {
+            "CurseForgeProject": 567580
+          }
+        },
+        {
+          "name": "An Origins Addon - Apocalypse",
+          "identifier": {
+            "CurseForgeProject": 521235
+          }
+        },
+        {
+          "name": "An Origins Addon - Libra",
+          "identifier": {
+            "CurseForgeProject": 478492
+          }
+        },
+        {
+          "name": "Architectury API",
+          "identifier": {
+            "ModrinthProject": "lhGA9TYQ"
+          }
+        },
+        {
+          "name": "Artifacts (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 401236
+          }
+        },
+        {
+          "name": "AutoTag",
+          "identifier": {
+            "CurseForgeProject": 618433
+          }
+        },
+        {
+          "name": "BackSlot",
+          "identifier": {
+            "CurseForgeProject": 402739
+          }
+        },
+        {
+          "name": "bad packets",
+          "identifier": {
+            "CurseForgeProject": 615134
+          }
+        },
+        {
+          "name": "BCLib",
+          "identifier": {
+            "CurseForgeProject": 495191
+          }
+        },
+        {
+          "name": "Beacon Overhaul",
+          "identifier": {
+            "CurseForgeProject": 430382
+          }
+        },
+        {
+          "name": "Better Biome Blend",
+          "identifier": {
+            "CurseForgeProject": 446253
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "BetterEnd",
+          "identifier": {
+            "CurseForgeProject": 413596
+          }
+        },
+        {
+          "name": "BetterNether",
+          "identifier": {
+            "CurseForgeProject": 311377
+          }
+        },
+        {
+          "name": "Biome Technologies™",
+          "identifier": {
+            "ModrinthProject": "XhDzIuvV"
+          }
+        },
+        {
+          "name": "Bosses of Mass Destruction",
+          "identifier": {
+            "CurseForgeProject": 438365
+          }
+        },
+        {
+          "name": "Brazier",
+          "identifier": {
+            "ModrinthProject": "5okEW6TG"
+          }
+        },
+        {
+          "name": "CameraOverhaul",
+          "identifier": {
+            "CurseForgeProject": 423602
+          }
+        },
+        {
+          "name": "Cardinal Components",
+          "identifier": {
+            "CurseForgeProject": 318449
+          }
+        },
+        {
+          "name": "Charm",
+          "identifier": {
+            "ModrinthProject": "pOQTcQmj"
+          }
+        },
+        {
+          "name": "CIT Resewn",
+          "identifier": {
+            "CurseForgeProject": 521427
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "ColoredGlow Lib",
+          "identifier": {
+            "ModrinthProject": "tLyToK0S"
+          }
+        },
+        {
+          "name": "Comforts (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 433539
+          }
+        },
+        {
+          "name": "Concurrent Chunk Management Engine (Fabric)",
+          "identifier": {
+            "ModrinthProject": "VSNURh3q"
+          }
+        },
+        {
+          "name": "Connectible Chains [Fabric]",
+          "identifier": {
+            "ModrinthProject": "ykSfIgTw"
+          }
+        },
+        {
+          "name": "Continuity",
+          "identifier": {
+            "CurseForgeProject": 531351
+          }
+        },
+        {
+          "name": "Create Fabric",
+          "identifier": {
+            "ModrinthProject": "Xbc0uyRg"
+          }
+        },
+        {
+          "name": "Cull Less Leaves",
+          "identifier": {
+            "ModrinthProject": "iG6ZHsUV"
+          }
+        },
+        {
+          "name": "Damage Tilt",
+          "identifier": {
+            "CurseForgeProject": 411705
+          }
+        },
+        {
+          "name": "DashLoader",
+          "identifier": {
+            "CurseForgeProject": 472772
+          }
+        },
+        {
+          "name": "Data Attributes",
+          "identifier": {
+            "CurseForgeProject": 514734
+          }
+        },
+        {
+          "name": "Durability Notifier",
+          "identifier": {
+            "CurseForgeProject": 277095
+          }
+        },
+        {
+          "name": "Eldritch Mobs",
+          "identifier": {
+            "ModrinthProject": "emXFPmJd"
+          }
+        },
+        {
+          "name": "Elytra Slot (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 397903
+          }
+        },
+        {
+          "name": "End Remastered [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 515523
+          }
+        },
+        {
+          "name": "EntityCulling",
+          "identifier": {
+            "ModrinthProject": "NNAgCjsB"
+          }
+        },
+        {
+          "name": "Expanded Delight",
+          "identifier": {
+            "ModrinthProject": "e9V6wFcR"
+          }
+        },
+        {
+          "name": "Extra Records",
+          "identifier": {
+            "CurseForgeProject": 458019
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "Extra Thicc Packets",
+          "identifier": {
+            "CurseForgeProject": 688480
+          }
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "CurseForgeProject": 306612
+          }
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "identifier": {
+            "CurseForgeProject": 308769
+          }
+        },
+        {
+          "name": "Fabric Tailor",
+          "identifier": {
+            "ModrinthProject": "g8w1NapE"
+          }
+        },
+        {
+          "name": "Farmer's Delight [Fabric]",
+          "identifier": {
+            "ModrinthProject": "4EakbH8e"
+          }
+        },
+        {
+          "name": "Farmer's Knives [Fabric]",
+          "identifier": {
+            "ModrinthProject": "uc3VdfLM"
+          }
+        },
+        {
+          "name": "FerriteCore",
+          "identifier": {
+            "ModrinthProject": "uXXizFIs"
+          }
+        },
+        {
+          "name": "GeckoLib",
+          "identifier": {
+            "CurseForgeProject": 388172
+          }
+        },
+        {
+          "name": "Go Fish",
+          "identifier": {
+            "CurseForgeProject": 431135
+          }
+        },
+        {
+          "name": "Gobber [FABRIC]",
+          "identifier": {
+            "CurseForgeProject": 427177
+          }
+        },
+        {
+          "name": "Immersive Weathering",
+          "identifier": {
+            "ModrinthProject": "jkskOO9i"
+          }
+        },
+        {
+          "name": "In-Game Account Switcher",
+          "identifier": {
+            "CurseForgeProject": 232676
+          }
+        },
+        {
+          "name": "Indium",
+          "identifier": {
+            "CurseForgeProject": 459496
+          }
+        },
+        {
+          "name": "ItemSwapper",
+          "identifier": {
+            "CurseForgeProject": 694358
+          }
+        },
+        {
+          "name": "LambdaBetterGrass",
+          "identifier": {
+            "CurseForgeProject": 400322
+          }
+        },
+        {
+          "name": "LambDynamicLights",
+          "identifier": {
+            "CurseForgeProject": 393442
+          }
+        },
+        {
+          "name": "LazyDFU",
+          "identifier": {
+            "CurseForgeProject": 433518
+          }
+        },
+        {
+          "name": "LightWithin",
+          "identifier": {
+            "ModrinthProject": "f8LsKKPu"
+          }
+        },
+        {
+          "name": "Literally Chunk Loader",
+          "identifier": {
+            "CurseForgeProject": 378183
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "Marium's Soulslike Weaponry",
+          "identifier": {
+            "CurseForgeProject": 632066
+          }
+        },
+        {
+          "name": "MC Dungeons Armors",
+          "identifier": {
+            "CurseForgeProject": 426206
+          }
+        },
+        {
+          "name": "MedievalWeapons",
+          "identifier": {
+            "CurseForgeProject": 411400
+          }
+        },
+        {
+          "name": "Miskatonic Mysteries",
+          "identifier": {
+            "CurseForgeProject": 473458
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "CurseForgeProject": 308702
+          }
+        },
+        {
+          "name": "Moonlight Lib",
+          "identifier": {
+            "ModrinthProject": "twkfQtEc"
+          }
+        },
+        {
+          "name": "Nameplate",
+          "identifier": {
+            "CurseForgeProject": 551914
+          }
+        },
+        {
+          "name": "Naturalist",
+          "identifier": {
+            "CurseForgeProject": 627986
+          }
+        },
+        {
+          "name": "No Name Tags",
+          "identifier": {
+            "CurseForgeProject": 633329
+          }
+        },
+        {
+          "name": "No Telemetry",
+          "identifier": {
+            "CurseForgeProject": 530816
+          }
+        },
+        {
+          "name": "Nyf's Quivers",
+          "identifier": {
+            "CurseForgeProject": 482731
+          }
+        },
+        {
+          "name": "Oh The Biomes You'll Go Refabricated",
+          "identifier": {
+            "CurseForgeProject": 391378
+          }
+        },
+        {
+          "name": "Origins (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 391943
+          }
+        },
+        {
+          "name": "Origins: Classes",
+          "identifier": {
+            "CurseForgeProject": 401833
+          }
+        },
+        {
+          "name": "Patchouli (Fabric/Quilt)",
+          "identifier": {
+            "CurseForgeProject": 393236
+          }
+        },
+        {
+          "name": "Pehkui",
+          "identifier": {
+            "CurseForgeProject": 319596
+          }
+        },
+        {
+          "name": "perit",
+          "identifier": {
+            "GitHubRepository": [
+              "liabri",
+              "perit"
+            ]
+          },
+          "check_game_version": false,
+          "check_mod_loader": false
+        },
+        {
+          "name": "Physics Mod",
+          "identifier": {
+            "CurseForgeProject": 442735
+          }
+        },
+        {
+          "name": "PlayerEx",
+          "identifier": {
+            "CurseForgeProject": 409221
+          }
+        },
+        {
+          "name": "Presence Footsteps [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 334259
+          }
+        },
+        {
+          "name": "RelicEx",
+          "identifier": {
+            "CurseForgeProject": 439281
+          }
+        },
+        {
+          "name": "Roughly Enough Items Fabric/Forge (REI)",
+          "identifier": {
+            "CurseForgeProject": 310111
+          }
+        },
+        {
+          "name": "RpgDifficulty",
+          "identifier": {
+            "CurseForgeProject": 480786
+          }
+        },
+        {
+          "name": "Scout",
+          "identifier": {
+            "CurseForgeProject": 631922
+          }
+        },
+        {
+          "name": "Simple Hats",
+          "identifier": {
+            "CurseForgeProject": 631990
+          }
+        },
+        {
+          "name": "Situational Crosshair",
+          "identifier": {
+            "CurseForgeProject": 503343
+          }
+        },
+        {
+          "name": "Smooth Boot (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 415758
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "CurseForgeProject": 394468
+          }
+        },
+        {
+          "name": "Sound Physics Remastered",
+          "identifier": {
+            "CurseForgeProject": 535489
+          }
+        },
+        {
+          "name": "Spellbound Enchantments [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 434965
+          }
+        },
+        {
+          "name": "Spyglass Improvements: Zoom, Quick Access... [Fabric/Forge]",
+          "identifier": {
+            "CurseForgeProject": 571264
+          }
+        },
+        {
+          "name": "Starlight (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 521783
+          }
+        },
+        {
+          "name": "Supplementaries",
+          "identifier": {
+            "CurseForgeProject": 412082
+          }
+        },
+        {
+          "name": "TerraBlender (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 565956
+          }
+        },
+        {
+          "name": "Terrestria",
+          "identifier": {
+            "CurseForgeProject": 323974
+          }
+        },
+        {
+          "name": "The Witcher - An Origins Addon",
+          "identifier": {
+            "CurseForgeProject": 678143
+          },
+          "check_game_version": false
+        },
+        {
+          "name": "TieredZ",
+          "identifier": {
+            "CurseForgeProject": 615948
+          }
+        },
+        {
+          "name": "Tom's Simple Storage Mod (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 396826
+          }
+        },
+        {
+          "name": "Traverse",
+          "identifier": {
+            "CurseForgeProject": 308777
+          }
+        },
+        {
+          "name": "Trinkets (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 341284
+          }
+        },
+        {
+          "name": "True Darkness",
+          "identifier": {
+            "CurseForgeProject": 337243
+          }
+        },
+        {
+          "name": "VanitySlots",
+          "identifier": {
+            "CurseForgeProject": 570109
+          }
+        },
+        {
+          "name": "Victus - Custom Hearts",
+          "identifier": {
+            "CurseForgeProject": 534492
+          }
+        },
+        {
+          "name": "Visuality",
+          "identifier": {
+            "CurseForgeProject": 521126
+          }
+        },
+        {
+          "name": "WMITAF",
+          "identifier": {
+            "CurseForgeProject": 547358
+          }
+        },
+        {
+          "name": "WorldEdit",
+          "identifier": {
+            "CurseForgeProject": 225608
+          }
+        },
+        {
+          "name": "WTHIT",
+          "identifier": {
+            "CurseForgeProject": 440979
+          }
+        },
+        {
+          "name": "YetAnotherConfigLib",
+          "identifier": {
+            "ModrinthProject": "1eAoo2KR"
+          }
+        }
+      ]
+    }
+  ],
+  "modpacks": []
+}
