@@ -24,7 +24,8 @@ Region which led the world into the industrial revolution with the addition of t
 
 ## Before Updating
 
-* make `continents`' continents bigger since vanilla rivers are so widespread, if no success just remove (sadly), possibly by adding tectonics.
+* remove dnl:plains_dungeon or whatever it's called ;
+* configure `continents` datapack.
 
 ## Eventually
 
