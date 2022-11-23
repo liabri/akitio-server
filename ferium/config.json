@@ -1,5 +1,5 @@
 {
-  "active_profile": 0,
+  "active_profile": 1,
   "active_modpack": 0,
   "profiles": [
     {
@@ -259,6 +259,12 @@
           "name": "Gobber [FABRIC]",
           "identifier": {
             "CurseForgeProject": 427177
+          }
+        },
+        {
+          "name": "Immersive Travel Overhaul",
+          "identifier": {
+            "CurseForgeProject": 460466
           }
         },
         {
@@ -852,6 +858,12 @@
           "name": "Gobber [FABRIC]",
           "identifier": {
             "CurseForgeProject": 427177
+          }
+        },
+        {
+          "name": "Immersive Travel Overhaul",
+          "identifier": {
+            "CurseForgeProject": 460466
           }
         },
         {
