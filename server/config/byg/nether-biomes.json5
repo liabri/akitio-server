@@ -179,22 +179,6 @@ If your settings in this file seem to have to no effect on the generation of the
 			{
 				"data": "betternether:old_swampland",
 				"weight": 2
-			},
-			{
-				"data": "cinderscapes:ashy_shoals",
-				"weight": 2
-			},
-			{
-				"data": "cinderscapes:blackstone_shales",
-				"weight": 2
-			},
-			{
-				"data": "cinderscapes:luminous_grove",
-				"weight": 2
-			},
-			{
-				"data": "cinderscapes:quartz_cavern",
-				"weight": 2
 			}
 		]
 	},

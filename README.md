@@ -43,5 +43,19 @@ Region which led the world into the industrial revolution with the addition of t
 * Think about LevelZ-like functionality of preventing say brewing strength potions if alchemy level is too low.
 
 
-continent bias was 9
+NOT_BAD
+continent bias was -9
 xz scale was 0.07
+
+2
+continent bias -11
+continents/density_function 0.105
+minecraft/density_function 0.105
+
+
+3 possibly too small ?
+continents/density_function 0.1
+minecraft/density_function 0.13
+
+
+should be 6500x6500 or so
