@@ -68,3 +68,18 @@ should be 6500x6500 or so
 
 
 extra origins for radial menu for witcher origin?
+
+
+
+nether/end
+
+
+hello, im updating my world from 1.16.5 to 1.19.2, i'd like to reset the nether and the end to have nice new generation, however after successfully upgrading the world and deleting files DIM1 & DIM-1, the portals just dont work. The only thing I can find in my log is regarding BYG 
+
+
+Bonjour, 
+
+Je vous ai envoyé un mail il y a quelques semaines en requêtant l'achat des jetons de poker d'Harley et un tee-shirt, à titre informatif je voudrais savoir s'ils sont encore disponsible à l'achat. De plus, j'aimerais bien savoir combien les décoration de Noël attachées ci-dessous coûtent suite à votre post sur facebook.
+
+Cordialement,
+Tamara

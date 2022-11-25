@@ -45,11 +45,7 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 2
 			},
 			{
-				"data": "byg:brimstone_caverns",
-				"weight": 2
-			},
-			{
-				"data": "byg:subzero_hypogeal",
+				"data": "byg:weeping_mire",
 				"weight": 2
 			},
 			{
@@ -57,23 +53,27 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 2
 			},
 			{
-				"data": "byg:weeping_mire",
+				"data": "byg:brimstone_caverns",
 				"weight": 2
 			},
 			{
+				"data": "byg:subzero_hypogeal",
+				"weight": 0
+			},
+			{
 				"data": "byg:warped_desert",
+				"weight": 0
+			},
+			{
+				"data": "byg:magma_wastes",
 				"weight": 2
 			},
 			{
 				"data": "byg:quartz_desert",
-				"weight": 2
+				"weight": 0
 			},
 			{
 				"data": "byg:crimson_gardens",
-				"weight": 2
-			},
-			{
-				"data": "byg:magma_wastes",
 				"weight": 2
 			},
 			{
@@ -178,22 +178,6 @@ If your settings in this file seem to have to no effect on the generation of the
 			},
 			{
 				"data": "betternether:old_swampland",
-				"weight": 2
-			},
-			{
-				"data": "cinderscapes:ashy_shoals",
-				"weight": 2
-			},
-			{
-				"data": "cinderscapes:blackstone_shales",
-				"weight": 2
-			},
-			{
-				"data": "cinderscapes:luminous_grove",
-				"weight": 2
-			},
-			{
-				"data": "cinderscapes:quartz_cavern",
 				"weight": 2
 			}
 		]
@@ -414,7 +398,11 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 2
 			},
 			{
-				"data": "byg:weeping_mire",
+				"data": "byg:brimstone_caverns",
+				"weight": 2
+			},
+			{
+				"data": "byg:subzero_hypogeal",
 				"weight": 2
 			},
 			{
@@ -422,27 +410,23 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 2
 			},
 			{
-				"data": "byg:brimstone_caverns",
+				"data": "byg:weeping_mire",
 				"weight": 2
 			},
 			{
-				"data": "byg:subzero_hypogeal",
-				"weight": 0
-			},
-			{
 				"data": "byg:warped_desert",
-				"weight": 0
-			},
-			{
-				"data": "byg:magma_wastes",
 				"weight": 2
 			},
 			{
 				"data": "byg:quartz_desert",
-				"weight": 0
+				"weight": 2
 			},
 			{
 				"data": "byg:crimson_gardens",
+				"weight": 2
+			},
+			{
+				"data": "byg:magma_wastes",
 				"weight": 2
 			},
 			{
@@ -547,6 +531,22 @@ If your settings in this file seem to have to no effect on the generation of the
 			},
 			{
 				"data": "betternether:old_swampland",
+				"weight": 2
+			},
+			{
+				"data": "cinderscapes:ashy_shoals",
+				"weight": 2
+			},
+			{
+				"data": "cinderscapes:blackstone_shales",
+				"weight": 2
+			},
+			{
+				"data": "cinderscapes:luminous_grove",
+				"weight": 2
+			},
+			{
+				"data": "cinderscapes:quartz_cavern",
 				"weight": 2
 			}
 		]
