@@ -59,3 +59,12 @@ minecraft/density_function 0.13
 
 
 should be 6500x6500 or so
+
+
+[12:38:37] [main/WARN]: Found validation problem in {dnl:structures/cleric_hideout/mobs/cleric_lootbox}.pools[4].entries[0]: Unknown loot table called dnl:maps/gallery_of_illusion
+
+[12:38:38] [main/ERROR]: Couldn't load advancement dnl:story/structures/crawlers_lair/poison_eyes: Task Advancement{parentId=dnl:story/structures/crawlers_lair/locate, display=net.minecraft.class_185@60be24a2, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.class_2158$class_2159@2c99c9d6}, criteria={kill poison eyes=net.minecraft.class_175@4466f17}, requirements=[[kill poison eyes]]}
+[12:38:38] [main/ERROR]: Couldn't load advancement dnl:story/structures/crawlers_lair/locate: Task Advancement{parentId=dnl:story/structures/hivenest/craft_hive_chest, display=net.minecraft.class_185@36530c3c, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.class_2158$class_2159@2c99c9d6}, criteria={locate_crawlers_lair=net.minecraft.class_175@1dae336}, requirements=[[locate_crawlers_lair]]}
+
+
+extra origins for radial menu for witcher origin?

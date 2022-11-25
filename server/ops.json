@@ -4,5 +4,11 @@
     "name": "pacman9375",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b0e87108-87a4-3f28-a15c-d59806ae1063",
+    "name": "p",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
