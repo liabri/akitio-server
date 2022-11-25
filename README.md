@@ -41,3 +41,7 @@ Region which led the world into the industrial revolution with the addition of t
 * Gamerule « playersSleepingPercentage » ;
 * Setup ferium for easier updating. Problematic mods: unstructured (server)  ; creatures from the snow (server & client) ;
 * Think about LevelZ-like functionality of preventing say brewing strength potions if alchemy level is too low.
+
+
+continent bias was 9
+xz scale was 0.07
