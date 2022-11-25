@@ -22,11 +22,6 @@ Region which led the world into the industrial revolution with the addition of t
 
 # TODO
 
-## Before Updating
-
-* remove dnl:plains_dungeon or whatever it's called ;
-* configure `continents` datapack.
-
 ## Eventually
 
 * Assimilate lakeside biomes into surrounding biomes ;
@@ -42,44 +37,7 @@ Region which led the world into the industrial revolution with the addition of t
 * Setup ferium for easier updating. Problematic mods: unstructured (server)  ; creatures from the snow (server & client) ;
 * Think about LevelZ-like functionality of preventing say brewing strength potions if alchemy level is too low.
 
+## things to keep in mind
 
-NOT_BAD
-continent bias was -9
-xz scale was 0.07
-
-2
-continent bias -11
-continents/density_function 0.105
-minecraft/density_function 0.105
-
-
-3 possibly too small ?
-continents/density_function 0.1
-minecraft/density_function 0.13
-
-
-should be 6500x6500 or so
-
-
-[12:38:37] [main/WARN]: Found validation problem in {dnl:structures/cleric_hideout/mobs/cleric_lootbox}.pools[4].entries[0]: Unknown loot table called dnl:maps/gallery_of_illusion
-
-[12:38:38] [main/ERROR]: Couldn't load advancement dnl:story/structures/crawlers_lair/poison_eyes: Task Advancement{parentId=dnl:story/structures/crawlers_lair/locate, display=net.minecraft.class_185@60be24a2, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.class_2158$class_2159@2c99c9d6}, criteria={kill poison eyes=net.minecraft.class_175@4466f17}, requirements=[[kill poison eyes]]}
-[12:38:38] [main/ERROR]: Couldn't load advancement dnl:story/structures/crawlers_lair/locate: Task Advancement{parentId=dnl:story/structures/hivenest/craft_hive_chest, display=net.minecraft.class_185@36530c3c, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.class_2158$class_2159@2c99c9d6}, criteria={locate_crawlers_lair=net.minecraft.class_175@1dae336}, requirements=[[locate_crawlers_lair]]}
-
-
-extra origins for radial menu for witcher origin?
-
-
-
-nether/end
-
-
-hello, im updating my world from 1.16.5 to 1.19.2, i'd like to reset the nether and the end to have nice new generation, however after successfully upgrading the world and deleting files DIM1 & DIM-1, the portals just dont work. The only thing I can find in my log is regarding BYG 
-
-
-Bonjour, 
-
-Je vous ai envoyé un mail il y a quelques semaines en requêtant l'achat des jetons de poker d'Harley et un tee-shirt, à titre informatif je voudrais savoir s'ils sont encore disponsible à l'achat. De plus, j'aimerais bien savoir combien les décoration de Noël attachées ci-dessous coûtent suite à votre post sur facebook.
-
-Cordialement,
-Tamara
+[20:50:30] [main/ERROR]: There was a problem reading power file witcher:abilities/selection_wheel (skipping): Power type "extraorigins:radial_menu" is not defined.
+[20:50:30] [main/ERROR]: Origin "witcher:witcher" contained unregistered power: "witcher:abilities/selection_wheel"
