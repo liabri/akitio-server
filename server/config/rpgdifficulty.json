@@ -33,7 +33,7 @@
   "hudTesting": false,
   "excludedEntity": [],
   "allowSpecialZombie": true,
-  "bigZombieChance": 10,
+  "bigZombieChance": 0,
   "bigZombieSlownessFactor": 0.7,
   "bigZombieBonusLifePoints": 10,
   "bigZombieBonusDamage": 2,
