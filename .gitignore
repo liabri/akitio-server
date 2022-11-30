@@ -21,3 +21,4 @@ server/bluemap
 /server/world/*
 !/server/world/datapacks
 backups_temp/
+kīro/
