@@ -2,7 +2,6 @@ client/
 !client/.fabric/
 !client/config/
 !client/mods/
-!client/config\\config.json
 !client/options.amecsapi.txt
 !client/options.txt
 !client/state.json

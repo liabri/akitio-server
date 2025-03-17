@@ -1,25 +1,7 @@
 [
   {
-    "uuid": "f9676c42-0fd3-38b6-af76-a455149d37fc",
-    "name": "pacman9375",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "248572ee-5489-39b8-9fbf-6c4642692332",
     "name": "Alla",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "4c930498-b306-3095-afff-fc3e96b6069a",
-    "name": "Pascow",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "3e6b317c-14c4-3662-988c-e9c78771199a",
-    "name": "Lisaraa",
     "level": 4,
     "bypassesPlayerLimit": false
   }

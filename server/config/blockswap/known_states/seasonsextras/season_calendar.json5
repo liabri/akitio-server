@@ -1,0 +1,2309 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "0",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "0",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "0",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "0",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "1",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "1",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "1",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "1",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "2",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "2",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "2",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "2",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "3",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "3",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "3",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "3",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "4",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "4",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "4",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "4",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "5",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "5",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "5",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "5",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "6",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "6",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "6",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "6",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "7",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "7",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "7",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "7",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "8",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "8",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "8",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "8",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "9",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "9",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "9",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "9",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "10",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "10",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "10",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "10",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "11",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "11",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "11",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "11",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "12",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "12",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "12",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "12",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "13",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "13",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "13",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "13",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "14",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "14",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "14",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "14",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "15",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "15",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "15",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "15",
+			"facing": "north"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "0",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "0",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "0",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "1",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "1",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "1",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "1",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "2",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "2",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "2",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "2",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "3",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "3",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "3",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "3",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "4",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "4",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "4",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "4",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "5",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "5",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "5",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "5",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "6",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "6",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "6",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "6",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "7",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "7",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "7",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "7",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "8",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "8",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "8",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "8",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "9",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "9",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "9",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "9",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "10",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "10",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "10",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "10",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "11",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "11",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "11",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "11",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "12",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "12",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "12",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "12",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "13",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "13",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "13",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "13",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "14",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "14",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "14",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "14",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "15",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "15",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "15",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "15",
+			"facing": "south"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "0",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "0",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "0",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "0",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "1",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "1",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "1",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "1",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "2",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "2",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "2",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "2",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "3",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "3",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "3",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "3",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "4",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "4",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "4",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "4",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "5",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "5",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "5",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "5",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "6",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "6",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "6",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "6",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "7",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "7",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "7",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "7",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "8",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "8",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "8",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "8",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "9",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "9",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "9",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "9",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "10",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "10",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "10",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "10",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "11",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "11",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "11",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "11",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "12",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "12",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "12",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "12",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "13",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "13",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "13",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "13",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "14",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "14",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "14",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "14",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "15",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "15",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "15",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "15",
+			"facing": "west"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "0",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "0",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "0",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "0",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "1",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "1",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "1",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "1",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "2",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "2",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "2",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "2",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "3",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "3",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "3",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "3",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "4",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "4",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "4",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "4",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "5",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "5",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "5",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "5",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "6",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "6",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "6",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "6",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "7",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "7",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "7",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "7",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "8",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "8",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "8",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "8",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "9",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "9",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "9",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "9",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "10",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "10",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "10",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "10",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "11",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "11",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "11",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "11",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "12",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "12",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "12",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "12",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "13",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "13",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "13",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "13",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "14",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "14",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "14",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "14",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "spring",
+			"progress": "15",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "summer",
+			"progress": "15",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "fall",
+			"progress": "15",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"season": "winter",
+			"progress": "15",
+			"facing": "east"
+		},
+		"Name": "seasonsextras:season_calendar"
+	}
+]
